@@ -1,0 +1,142 @@
+{
+  "George Town-Taiping": {
+    "corridor_name": "Northern Heritage Rail & PLUS Corridor (KTM ETS & E1)",
+    "mode": "KTM Komuter Utara / ETS & PLUS Expressway (E1)",
+    "travel_time_mins": 52,
+    "fare_rm": 7.5,
+    "waypoints": [
+      [
+        5.4141,
+        100.3288
+      ],
+      [
+        5.3544,
+        100.3014
+      ],
+      [
+        5.3683,
+        100.4608
+      ],
+      [
+        5.1667,
+        100.4833
+      ],
+      [
+        5.05,
+        100.5833
+      ],
+      [
+        4.85,
+        100.7333
+      ]
+    ]
+  },
+  "Cameron Highlands-Lipis": {
+    "corridor_name": "Highlands Eco-Heritage Corridor (FR59 & Central Spine Road)",
+    "mode": "Federal Route 59 & Central Spine Road (CSR)",
+    "travel_time_mins": 65,
+    "fare_rm": 12.0,
+    "waypoints": [
+      [
+        4.4735,
+        101.3789
+      ],
+      [
+        4.425,
+        101.4
+      ],
+      [
+        4.35,
+        101.6
+      ],
+      [
+        4.25,
+        101.85
+      ],
+      [
+        4.1843,
+        102.0463
+      ]
+    ]
+  },
+  "Melaka Tengah-Muar": {
+    "corridor_name": "Southern Historic Coastal Trail (Federal Route 5)",
+    "mode": "Federal Route 5 Coastal Highway & Muar Bypass",
+    "travel_time_mins": 45,
+    "fare_rm": 0.0,
+    "waypoints": [
+      [
+        2.2008,
+        102.2519
+      ],
+      [
+        2.15,
+        102.32
+      ],
+      [
+        2.1333,
+        102.4333
+      ],
+      [
+        2.08,
+        102.52
+      ],
+      [
+        2.0394,
+        102.5694
+      ]
+    ]
+  },
+  "Langkawi-Yan": {
+    "corridor_name": "Northern Geopark Coastal & Ferry Rail Link",
+    "mode": "Ro-Ro Ferry & KTM ETS Arau / Federal Route 7",
+    "travel_time_mins": 75,
+    "fare_rm": 23.0,
+    "waypoints": [
+      [
+        6.3265,
+        99.8432
+      ],
+      [
+        6.4,
+        100.1333
+      ],
+      [
+        6.1248,
+        100.3678
+      ],
+      [
+        5.7958,
+        100.3752
+      ]
+    ]
+  },
+  "Petaling-Kuala Kangsar": {
+    "corridor_name": "Central-North Royal Heritage Transit Corridor",
+    "mode": "KTM ETS Platinum & PLUS Expressway",
+    "travel_time_mins": 110,
+    "fare_rm": 38.0,
+    "waypoints": [
+      [
+        3.1118,
+        101.5947
+      ],
+      [
+        3.35,
+        101.55
+      ],
+      [
+        3.8,
+        101.4
+      ],
+      [
+        4.5975,
+        101.0901
+      ],
+      [
+        4.7738,
+        100.9416
+      ]
+    ]
+  }
+}

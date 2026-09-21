@@ -1,0 +1,319 @@
+year,state,rank,district_name
+2020,Johor,1,Johor Bahru
+2020,Johor,2,Kota Tinggi
+2020,Johor,3,Batu Pahat
+2020,Johor,4,Pontian
+2020,Johor,5,Mersing
+2020,Kedah,1,Kota Setar
+2020,Kedah,2,Langkawi
+2020,Kedah,3,Pokok Sena
+2020,Kedah,4,Pendang
+2020,Kedah,5,Kubang Pasu
+2020,Kelantan,1,Kota Bharu
+2020,Kelantan,2,Pasir Mas
+2020,Kelantan,3,Tanah Merah
+2020,Kelantan,4,Gua Musang
+2020,Kelantan,5,Pasir Puteh
+2020,Melaka,1,Melaka Tengah
+2020,Melaka,2,Alor Gajah
+2020,Melaka,3,Jasin
+2020,Pahang,1,Kuantan
+2020,Pahang,2,Cameron Highlands
+2020,Pahang,3,Bentong
+2020,Pahang,4,Rompin
+2020,Pahang,5,Jerantut
+2020,Pulau Pinang,1,Timur Laut
+2020,Pulau Pinang,2,Barat Daya
+2020,Pulau Pinang,3,Seberang Perai Utara
+2020,Pulau Pinang,4,Seberang Perai Selatan
+2020,Pulau Pinang,5,Seberang Perai Tengah
+2020,Perak,1,Larut & Matang
+2020,Perak,2,Kinta
+2020,Perak,3,Manjung
+2020,Perak,4,Kuala Kangsar
+2020,Perak,5,Kerian
+2020,Selangor,1,Petaling
+2020,Selangor,2,Klang
+2020,Selangor,3,Hulu Langat
+2020,Selangor,4,Gombak
+2020,Selangor,5,Kuala Langat
+2020,Terengganu,1,Kuala Terengganu
+2020,Terengganu,2,Kemaman
+2020,Terengganu,3,Dungun
+2020,Terengganu,4,Kuala Nerus
+2020,Terengganu,5,Marang
+2020,Sabah,1,Kota Kinabalu
+2020,Sabah,2,Keningau
+2020,Sabah,3,Tawau
+2020,Sabah,4,Lahad Datu
+2020,Sabah,5,Semporna
+2020,Sarawak,1,Kuching
+2020,Sarawak,2,Sibu
+2020,Sarawak,3,Bintulu
+2020,Sarawak,4,Miri
+2020,Sarawak,5,Serian
+2021,Johor,1,Johor Bahru
+2021,Johor,2,Kota Tinggi
+2021,Johor,3,Muar
+2021,Johor,4,Kluang
+2021,Johor,5,Batu Pahat
+2021,Kedah,1,Langkawi
+2021,Kedah,2,Kuala Muda
+2021,Kedah,3,Kulim
+2021,Kedah,4,Kota Setar
+2021,Kedah,5,Kubang Pasu
+2021,Kelantan,1,Kota Bharu
+2021,Kelantan,2,Bachok
+2021,Kelantan,3,Pasir Mas
+2021,Kelantan,4,Machang
+2021,Kelantan,5,Gua Musang
+2021,Melaka,1,Melaka Tengah
+2021,Melaka,2,Alor Gajah
+2021,Melaka,3,Jasin
+2021,Pahang,1,Kuantan
+2021,Pahang,2,Bentong
+2021,Pahang,3,Cameron Highlands
+2021,Pahang,4,Temerloh
+2021,Pahang,5,Lipis
+2021,Pulau Pinang,1,Timur Laut
+2021,Pulau Pinang,2,Barat Daya
+2021,Pulau Pinang,3,Seberang Perai Tengah
+2021,Pulau Pinang,4,Seberang Perai Utara
+2021,Pulau Pinang,5,Seberang Perai Selatan
+2021,Perak,1,Larut & Matang
+2021,Perak,2,Kinta
+2021,Perak,3,Manjung
+2021,Perak,4,Hilir Perak
+2021,Perak,5,Kuala Kangsar
+2021,Selangor,1,Petaling
+2021,Selangor,2,Hulu Langat
+2021,Selangor,3,Klang
+2021,Selangor,4,Gombak
+2021,Selangor,5,Sepang
+2021,Terengganu,1,Kuala Terengganu
+2021,Terengganu,2,Dungun
+2021,Terengganu,3,Kemaman
+2021,Terengganu,4,Besut
+2021,Terengganu,5,Kuala Nerus
+2021,Sabah,1,Kota Kinabalu
+2021,Sabah,2,Tawau
+2021,Sabah,3,Ranau
+2021,Sabah,4,Semporna
+2021,Sabah,5,Lahad Datu
+2021,Sarawak,1,Bintulu
+2021,Sarawak,2,Sibu
+2021,Sarawak,3,Kuching
+2021,Sarawak,4,Miri
+2021,Sarawak,5,Mukah
+2022,Johor,1,Johor Bahru
+2022,Johor,2,Batu Pahat
+2022,Johor,3,Kota Tinggi
+2022,Johor,4,Muar
+2022,Johor,5,Mersing
+2022,Kedah,1,Kota Setar
+2022,Kedah,2,Langkawi
+2022,Kedah,3,Baling
+2022,Kedah,4,Kuala Muda
+2022,Kedah,5,Kulim
+2022,Kelantan,1,Kota Bharu
+2022,Kelantan,2,Bachok
+2022,Kelantan,3,Pasir Mas
+2022,Kelantan,4,Pasir Puteh
+2022,Kelantan,5,Gua Musang
+2022,Melaka,1,Melaka Tengah
+2022,Melaka,2,Alor Gajah
+2022,Melaka,3,Jasin
+2022,Pahang,1,Kuantan
+2022,Pahang,2,Cameron Highlands
+2022,Pahang,3,Bentong
+2022,Pahang,4,Temerloh
+2022,Pahang,5,Maran
+2022,Pulau Pinang,1,Timur Laut
+2022,Pulau Pinang,2,Barat Daya
+2022,Pulau Pinang,3,Seberang Perai Tengah
+2022,Pulau Pinang,4,Seberang Perai Utara
+2022,Pulau Pinang,5,Seberang Perai Selatan
+2022,Perak,1,Kinta
+2022,Perak,2,Larut & Matang
+2022,Perak,3,Manjung
+2022,Perak,4,Batang Padang
+2022,Perak,5,Hilir Perak
+2022,Selangor,1,Petaling
+2022,Selangor,2,Hulu Langat
+2022,Selangor,3,Gombak
+2022,Selangor,4,Klang
+2022,Selangor,5,Sepang
+2022,Terengganu,1,Kuala Terengganu
+2022,Terengganu,2,Kemaman
+2022,Terengganu,3,Kuala Nerus
+2022,Terengganu,4,Dungun
+2022,Terengganu,5,Marang
+2022,Sabah,1,Kota Kinabalu
+2022,Sabah,2,Tawau
+2022,Sabah,3,Ranau
+2022,Sabah,4,Lahad Datu
+2022,Sabah,5,Sandakan
+2022,Sarawak,1,Kuching
+2022,Sarawak,2,Sibu
+2022,Sarawak,3,Miri
+2022,Sarawak,4,Bintulu
+2022,Sarawak,5,Sri Aman
+2023,Johor,1,Johor Bahru
+2023,Johor,2,Batu Pahat
+2023,Johor,3,Kota Tinggi
+2023,Johor,4,Muar
+2023,Johor,5,Mersing
+2023,Kedah,1,Kota Setar
+2023,Kedah,2,Langkawi
+2023,Kedah,3,Baling
+2023,Kedah,4,Kuala Muda
+2023,Kedah,5,Kulim
+2023,Kelantan,1,Kota Bharu
+2023,Kelantan,2,Bachok
+2023,Kelantan,3,Pasir Mas
+2023,Kelantan,4,Machang
+2023,Kelantan,5,Pasir Puteh
+2023,Melaka,1,Melaka Tengah
+2023,Melaka,2,Alor Gajah
+2023,Melaka,3,Jasin
+2023,Pahang,1,Kuantan
+2023,Pahang,2,Cameron Highlands
+2023,Pahang,3,Bentong
+2023,Pahang,4,Temerloh
+2023,Pahang,5,Pekan
+2023,Pulau Pinang,1,Timur Laut
+2023,Pulau Pinang,2,Barat Daya
+2023,Pulau Pinang,3,Seberang Perai Tengah
+2023,Pulau Pinang,4,Seberang Perai Utara
+2023,Pulau Pinang,5,Seberang Perai Selatan
+2023,Perak,1,Kinta
+2023,Perak,2,Larut & Matang
+2023,Perak,3,Manjung
+2023,Perak,4,Batang Padang
+2023,Perak,5,Hilir Perak
+2023,Selangor,1,Petaling
+2023,Selangor,2,Sepang
+2023,Selangor,3,Hulu Langat
+2023,Selangor,4,Gombak
+2023,Selangor,5,Sabak Bernam
+2023,Terengganu,1,Kuala Terengganu
+2023,Terengganu,2,Kemaman
+2023,Terengganu,3,Besut
+2023,Terengganu,4,Kuala Nerus
+2023,Terengganu,5,Dungun
+2023,Sabah,1,Kota Kinabalu
+2023,Sabah,2,Tawau
+2023,Sabah,3,Ranau
+2023,Sabah,4,Lahad Datu
+2023,Sabah,5,Sandakan
+2023,Sarawak,1,Kuching
+2023,Sarawak,2,Sibu
+2023,Sarawak,3,Miri
+2023,Sarawak,4,Bintulu
+2023,Sarawak,5,Sri Aman
+2024,Johor,1,Johor Bahru
+2024,Johor,2,Batu Pahat
+2024,Johor,3,Muar
+2024,Johor,4,Kota Tinggi
+2024,Johor,5,Segamat
+2024,Kedah,1,Kota Setar
+2024,Kedah,2,Langkawi
+2024,Kedah,3,Kuala Muda
+2024,Kedah,4,Baling
+2024,Kedah,5,Kulim
+2024,Kelantan,1,Kota Bharu
+2024,Kelantan,2,Bachok
+2024,Kelantan,3,Pasir Mas
+2024,Kelantan,4,Pasir Puteh
+2024,Kelantan,5,Tanah Merah
+2024,Melaka,1,Melaka Tengah
+2024,Melaka,2,Alor Gajah
+2024,Melaka,3,Jasin
+2024,Pahang,1,Kuantan
+2024,Pahang,2,Bentong
+2024,Pahang,3,Cameron Highlands
+2024,Pahang,4,Rompin
+2024,Pahang,5,Temerloh
+2024,Pulau Pinang,1,Timur Laut
+2024,Pulau Pinang,2,Barat Daya
+2024,Pulau Pinang,3,Seberang Perai Tengah
+2024,Pulau Pinang,4,Seberang Perai Utara
+2024,Pulau Pinang,5,Seberang Perai Selatan
+2024,Perak,1,Kinta
+2024,Perak,2,Larut & Matang
+2024,Perak,3,Manjung
+2024,Perak,4,Kuala Kangsar
+2024,Perak,5,Batang Padang
+2024,Selangor,1,Petaling
+2024,Selangor,2,Sepang
+2024,Selangor,3,Gombak
+2024,Selangor,4,Kuala Selangor
+2024,Selangor,5,Hulu Langat
+2024,Terengganu,1,Kuala Terengganu
+2024,Terengganu,2,Kuala Nerus
+2024,Terengganu,3,Kemaman
+2024,Terengganu,4,Besut
+2024,Terengganu,5,Dungun
+2024,Sabah,1,Kota Kinabalu
+2024,Sabah,2,Ranau
+2024,Sabah,3,Tawau
+2024,Sabah,4,Sandakan
+2024,Sabah,5,Keningau
+2024,Sarawak,1,Kuching
+2024,Sarawak,2,Sibu
+2024,Sarawak,3,Bintulu
+2024,Sarawak,4,Miri
+2024,Sarawak,5,Sri Aman
+2025,Johor,1,Johor Bahru
+2025,Johor,2,Batu Pahat
+2025,Johor,3,Muar
+2025,Johor,4,Kota Tinggi
+2025,Johor,5,Segamat
+2025,Kedah,1,Kota Setar
+2025,Kedah,2,Langkawi
+2025,Kedah,3,Kuala Muda
+2025,Kedah,4,Baling
+2025,Kedah,5,Kulim
+2025,Kelantan,1,Kota Bharu
+2025,Kelantan,2,Bachok
+2025,Kelantan,3,Pasir Mas
+2025,Kelantan,4,Pasir Puteh
+2025,Kelantan,5,Tanah Merah
+2025,Melaka,1,Melaka Tengah
+2025,Melaka,2,Alor Gajah
+2025,Melaka,3,Jasin
+2025,Pahang,1,Kuantan
+2025,Pahang,2,Bentong
+2025,Pahang,3,Cameron Highlands
+2025,Pahang,4,Rompin
+2025,Pahang,5,Temerloh
+2025,Pulau Pinang,1,Timur Laut
+2025,Pulau Pinang,2,Barat Daya
+2025,Pulau Pinang,3,Seberang Perai Tengah
+2025,Pulau Pinang,4,Seberang Perai Utara
+2025,Pulau Pinang,5,Seberang Perai Selatan
+2025,Perak,1,Kinta
+2025,Perak,2,Larut & Matang
+2025,Perak,3,Manjung
+2025,Perak,4,Kuala Kangsar
+2025,Perak,5,Batang Padang
+2025,Selangor,1,Petaling
+2025,Selangor,2,Sepang
+2025,Selangor,3,Gombak
+2025,Selangor,4,Kuala Selangor
+2025,Selangor,5,Hulu Langat
+2025,Terengganu,1,Kuala Terengganu
+2025,Terengganu,2,Kuala Nerus
+2025,Terengganu,3,Kemaman
+2025,Terengganu,4,Besut
+2025,Terengganu,5,Dungun
+2025,Sabah,1,Kota Kinabalu
+2025,Sabah,2,Ranau
+2025,Sabah,3,Tawau
+2025,Sabah,4,Sandakan
+2025,Sabah,5,Keningau
+2025,Sarawak,1,Kuching
+2025,Sarawak,2,Sibu
+2025,Sarawak,3,Bintulu
+2025,Sarawak,4,Miri
+2025,Sarawak,5,Sri Aman

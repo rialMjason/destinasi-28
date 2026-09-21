@@ -1,0 +1,289 @@
+source_file,year,period,state,average_occupancy_rate_pct
+AOR_2017.pdf,2017,Annual,W.P. Kuala Lumpur,66.1
+AOR_2017.pdf,2017,Annual,W.P. Putrajaya,73.9
+AOR_2017.pdf,2017,Annual,Selangor,60.3
+AOR_2017.pdf,2017,Annual,Pulau Pinang,62.1
+AOR_2017.pdf,2017,Annual,Perak,46.3
+AOR_2017.pdf,2017,Annual,Kedah,60.3
+AOR_2017.pdf,2017,Annual,Perlis,35.4
+AOR_2017.pdf,2017,Annual,Negeri Sembilan,55.7
+AOR_2017.pdf,2017,Annual,Melaka,60.0
+AOR_2017.pdf,2017,Annual,Johor,62.5
+AOR_2017.pdf,2017,Annual,Pahang,75.7
+AOR_2017.pdf,2017,Annual,Terengganu,45.2
+AOR_2017.pdf,2017,Annual,Kelantan,43.8
+AOR_2017.pdf,2017,Annual,Sabah,65.3
+AOR_2017.pdf,2017,Annual,W.P. Labuan,52.6
+AOR_2017.pdf,2017,Annual,Sarawak,52.6
+AOR_2018.pdf,2018,Annual,W.P. Kuala Lumpur,63.3
+AOR_2018.pdf,2018,Annual,W.P. Putrajaya,72.1
+AOR_2018.pdf,2018,Annual,Selangor,57.2
+AOR_2018.pdf,2018,Annual,Pulau Pinang,62.2
+AOR_2018.pdf,2018,Annual,Perak,44.1
+AOR_2018.pdf,2018,Annual,Kedah,56.1
+AOR_2018.pdf,2018,Annual,Perlis,31.0
+AOR_2018.pdf,2018,Annual,Negeri Sembilan,54.2
+AOR_2018.pdf,2018,Annual,Melaka,57.3
+AOR_2018.pdf,2018,Annual,Johor,58.7
+AOR_2018.pdf,2018,Annual,Pahang,78.8
+AOR_2018.pdf,2018,Annual,Terengganu,39.9
+AOR_2018.pdf,2018,Annual,Kelantan,44.1
+AOR_2018.pdf,2018,Annual,Sabah,67.2
+AOR_2018.pdf,2018,Annual,W.P. Labuan,46.2
+AOR_2018.pdf,2018,Annual,Sarawak,48.9
+AOR_2019.pdf,2019,Annual,W.P. Kuala Lumpur,59.9
+AOR_2019.pdf,2019,Annual,W.P. Putrajaya,64.2
+AOR_2019.pdf,2019,Annual,Selangor,56.4
+AOR_2019.pdf,2019,Annual,Pulau Pinang,56.5
+AOR_2019.pdf,2019,Annual,Perak,43.9
+AOR_2019.pdf,2019,Annual,Kedah,55.7
+AOR_2019.pdf,2019,Annual,Perlis,36.0
+AOR_2019.pdf,2019,Annual,Negeri Sembilan,51.9
+AOR_2019.pdf,2019,Annual,Melaka,51.7
+AOR_2019.pdf,2019,Annual,Johor,57.3
+AOR_2019.pdf,2019,Annual,Pahang,79.4
+AOR_2019.pdf,2019,Annual,Terengganu,41.3
+AOR_2019.pdf,2019,Annual,Kelantan,43.4
+AOR_2019.pdf,2019,Annual,Sabah,65.8
+AOR_2019.pdf,2019,Annual,W.P. Labuan,42.2
+AOR_2019.pdf,2019,Annual,Sarawak,46.1
+AOR_2020.pdf,2020,Annual,W.P. Kuala Lumpur,25.1
+AOR_2020.pdf,2020,Annual,W.P. Putrajaya,40.6
+AOR_2020.pdf,2020,Annual,Selangor,30.2
+AOR_2020.pdf,2020,Annual,Pulau Pinang,23.7
+AOR_2020.pdf,2020,Annual,Perak,25.8
+AOR_2020.pdf,2020,Annual,Kedah,26.1
+AOR_2020.pdf,2020,Annual,Perlis,22.5
+AOR_2020.pdf,2020,Annual,Negeri Sembilan,25.5
+AOR_2020.pdf,2020,Annual,Melaka,20.0
+AOR_2020.pdf,2020,Annual,Johor,32.0
+AOR_2020.pdf,2020,Annual,Pahang,40.7
+AOR_2020.pdf,2020,Annual,Terengganu,32.4
+AOR_2020.pdf,2020,Annual,Kelantan,34.6
+AOR_2020.pdf,2020,Annual,Sabah,24.3
+AOR_2020.pdf,2020,Annual,W.P. Labuan,43.0
+AOR_2020.pdf,2020,Annual,Sarawak,30.3
+AOR_2021.pdf,2021,Annual,W.P. Kuala Lumpur,23.6
+AOR_2021.pdf,2021,Annual,W.P. Putrajaya,28.1
+AOR_2021.pdf,2021,Annual,Selangor,30.9
+AOR_2021.pdf,2021,Annual,Pulau Pinang,22.5
+AOR_2021.pdf,2021,Annual,Perak,27.6
+AOR_2021.pdf,2021,Annual,Kedah,23.2
+AOR_2021.pdf,2021,Annual,Perlis,22.3
+AOR_2021.pdf,2021,Annual,Negeri Sembilan,22.7
+AOR_2021.pdf,2021,Annual,Melaka,25.8
+AOR_2021.pdf,2021,Annual,Johor,24.9
+AOR_2021.pdf,2021,Annual,Pahang,19.6
+AOR_2021.pdf,2021,Annual,Terengganu,44.3
+AOR_2021.pdf,2021,Annual,Kelantan,34.3
+AOR_2021.pdf,2021,Annual,Sabah,21.8
+AOR_2021.pdf,2021,Annual,W.P. Labuan,27.7
+AOR_2021.pdf,2021,Annual,Sarawak,49.6
+AOR_2022.pdf,2022,Annual,W.P. Kuala Lumpur,49.0
+AOR_2022.pdf,2022,Annual,W.P. Putrajaya,51.2
+AOR_2022.pdf,2022,Annual,Selangor,53.7
+AOR_2022.pdf,2022,Annual,Pulau Pinang,44.1
+AOR_2022.pdf,2022,Annual,Perak,54.8
+AOR_2022.pdf,2022,Annual,Kedah,32.5
+AOR_2022.pdf,2022,Annual,Perlis,42.0
+AOR_2022.pdf,2022,Annual,Negeri Sembilan,38.7
+AOR_2022.pdf,2022,Annual,Melaka,40.1
+AOR_2022.pdf,2022,Annual,Johor,48.3
+AOR_2022.pdf,2022,Annual,Pahang,46.1
+AOR_2022.pdf,2022,Annual,Terengganu,55.3
+AOR_2022.pdf,2022,Annual,Kelantan,46.4
+AOR_2022.pdf,2022,Annual,Sabah,45.2
+AOR_2022.pdf,2022,Annual,W.P. Labuan,35.3
+AOR_2022.pdf,2022,Annual,Sarawak,57.4
+AOR_2023.pdf,2023,Annual,W.P. Kuala Lumpur,59.1
+AOR_2023.pdf,2023,Annual,W.P. Putrajaya,55.0
+AOR_2023.pdf,2023,Annual,Selangor,49.9
+AOR_2023.pdf,2023,Annual,Pulau Pinang,52.9
+AOR_2023.pdf,2023,Annual,Perak,47.3
+AOR_2023.pdf,2023,Annual,Kedah,43.4
+AOR_2023.pdf,2023,Annual,Perlis,42.2
+AOR_2023.pdf,2023,Annual,Negeri Sembilan,41.0
+AOR_2023.pdf,2023,Annual,Melaka,44.7
+AOR_2023.pdf,2023,Annual,Johor,50.7
+AOR_2023.pdf,2023,Annual,Pahang,74.1
+AOR_2023.pdf,2023,Annual,Terengganu,44.8
+AOR_2023.pdf,2023,Annual,Kelantan,41.2
+AOR_2023.pdf,2023,Annual,Sabah,49.0
+AOR_2023.pdf,2023,Annual,W.P. Labuan,33.3
+AOR_2023.pdf,2023,Annual,Sarawak,46.0
+AOR_2023_Q2.pdf,2023,Q2,W.P. Kuala Lumpur,57.3
+AOR_2023_Q2.pdf,2023,Q2,W.P. Putrajaya,54.0
+AOR_2023_Q2.pdf,2023,Q2,Selangor,47.1
+AOR_2023_Q2.pdf,2023,Q2,Pulau Pinang,49.2
+AOR_2023_Q2.pdf,2023,Q2,Perak,43.9
+AOR_2023_Q2.pdf,2023,Q2,Kedah,41.5
+AOR_2023_Q2.pdf,2023,Q2,Perlis,40.2
+AOR_2023_Q2.pdf,2023,Q2,Negeri Sembilan,36.8
+AOR_2023_Q2.pdf,2023,Q2,Melaka,41.5
+AOR_2023_Q2.pdf,2023,Q2,Johor,47.5
+AOR_2023_Q2.pdf,2023,Q2,Pahang,72.9
+AOR_2023_Q2.pdf,2023,Q2,Terengganu,44.5
+AOR_2023_Q2.pdf,2023,Q2,Kelantan,41.9
+AOR_2023_Q2.pdf,2023,Q2,Sabah,46.4
+AOR_2023_Q2.pdf,2023,Q2,W.P. Labuan,31.2
+AOR_2023_Q2.pdf,2023,Q2,Sarawak,41.9
+AOR_2023_Q3.pdf,2023,Q3,W.P. Kuala Lumpur,57.5
+AOR_2023_Q3.pdf,2023,Q3,W.P. Putrajaya,53.7
+AOR_2023_Q3.pdf,2023,Q3,Selangor,49.2
+AOR_2023_Q3.pdf,2023,Q3,Pulau Pinang,50.9
+AOR_2023_Q3.pdf,2023,Q3,Perak,45.2
+AOR_2023_Q3.pdf,2023,Q3,Kedah,42.0
+AOR_2023_Q3.pdf,2023,Q3,Perlis,40.2
+AOR_2023_Q3.pdf,2023,Q3,Negeri Sembilan,39.5
+AOR_2023_Q3.pdf,2023,Q3,Melaka,43.1
+AOR_2023_Q3.pdf,2023,Q3,Johor,49.6
+AOR_2023_Q3.pdf,2023,Q3,Pahang,73.3
+AOR_2023_Q3.pdf,2023,Q3,Terengganu,43.7
+AOR_2023_Q3.pdf,2023,Q3,Kelantan,41.9
+AOR_2023_Q3.pdf,2023,Q3,Sabah,48.3
+AOR_2023_Q3.pdf,2023,Q3,W.P. Labuan,32.8
+AOR_2023_Q3.pdf,2023,Q3,Sarawak,43.8
+AOR_2024_Q1.pdf,2024,Q1,W.P. Kuala Lumpur,61.1
+AOR_2024_Q1.pdf,2024,Q1,W.P. Putrajaya,56.0
+AOR_2024_Q1.pdf,2024,Q1,Selangor,47.0
+AOR_2024_Q1.pdf,2024,Q1,Pulau Pinang,53.2
+AOR_2024_Q1.pdf,2024,Q1,Perak,46.4
+AOR_2024_Q1.pdf,2024,Q1,Kedah,47.1
+AOR_2024_Q1.pdf,2024,Q1,Perlis,43.3
+AOR_2024_Q1.pdf,2024,Q1,Negeri Sembilan,39.3
+AOR_2024_Q1.pdf,2024,Q1,Melaka,44.7
+AOR_2024_Q1.pdf,2024,Q1,Johor,46.6
+AOR_2024_Q1.pdf,2024,Q1,Pahang,73.0
+AOR_2024_Q1.pdf,2024,Q1,Terengganu,41.3
+AOR_2024_Q1.pdf,2024,Q1,Kelantan,45.2
+AOR_2024_Q1.pdf,2024,Q1,Sabah,52.2
+AOR_2024_Q1.pdf,2024,Q1,W.P. Labuan,32.2
+AOR_2024_Q1.pdf,2024,Q1,Sarawak,42.7
+AOR_2024_Q2.pdf,2024,Q2,W.P. Kuala Lumpur,60.3
+AOR_2024_Q2.pdf,2024,Q2,W.P. Putrajaya,55.4
+AOR_2024_Q2.pdf,2024,Q2,Selangor,47.7
+AOR_2024_Q2.pdf,2024,Q2,Pulau Pinang,53.5
+AOR_2024_Q2.pdf,2024,Q2,Perak,44.7
+AOR_2024_Q2.pdf,2024,Q2,Kedah,44.8
+AOR_2024_Q2.pdf,2024,Q2,Perlis,40.8
+AOR_2024_Q2.pdf,2024,Q2,Negeri Sembilan,37.8
+AOR_2024_Q2.pdf,2024,Q2,Melaka,42.9
+AOR_2024_Q2.pdf,2024,Q2,Johor,49.2
+AOR_2024_Q2.pdf,2024,Q2,Pahang,74.6
+AOR_2024_Q2.pdf,2024,Q2,Terengganu,44.7
+AOR_2024_Q2.pdf,2024,Q2,Kelantan,43.6
+AOR_2024_Q2.pdf,2024,Q2,Sabah,50.0
+AOR_2024_Q2.pdf,2024,Q2,W.P. Labuan,32.4
+AOR_2024_Q2.pdf,2024,Q2,Sarawak,43.2
+AOR_2024_Q3.pdf,2024,Q3,W.P. Kuala Lumpur,61.2
+AOR_2024_Q3.pdf,2024,Q3,W.P. Putrajaya,55.7
+AOR_2024_Q3.pdf,2024,Q3,Selangor,50.8
+AOR_2024_Q3.pdf,2024,Q3,Pulau Pinang,55.6
+AOR_2024_Q3.pdf,2024,Q3,Perak,45.9
+AOR_2024_Q3.pdf,2024,Q3,Kedah,46.2
+AOR_2024_Q3.pdf,2024,Q3,Perlis,40.6
+AOR_2024_Q3.pdf,2024,Q3,Negeri Sembilan,41.0
+AOR_2024_Q3.pdf,2024,Q3,Melaka,44.0
+AOR_2024_Q3.pdf,2024,Q3,Johor,51.5
+AOR_2024_Q3.pdf,2024,Q3,Pahang,75.3
+AOR_2024_Q3.pdf,2024,Q3,Terengganu,47.6
+AOR_2024_Q3.pdf,2024,Q3,Kelantan,45.3
+AOR_2024_Q3.pdf,2024,Q3,Sabah,52.4
+AOR_2024_Q3.pdf,2024,Q3,W.P. Labuan,35.0
+AOR_2024_Q3.pdf,2024,Q3,Sarawak,47.2
+AOR_2024_Q4.pdf,2024,Q4,W.P. Kuala Lumpur,62.6
+AOR_2024_Q4.pdf,2024,Q4,W.P. Putrajaya,56.5
+AOR_2024_Q4.pdf,2024,Q4,Selangor,51.6
+AOR_2024_Q4.pdf,2024,Q4,Pulau Pinang,56.8
+AOR_2024_Q4.pdf,2024,Q4,Perak,46.9
+AOR_2024_Q4.pdf,2024,Q4,Kedah,46.6
+AOR_2024_Q4.pdf,2024,Q4,Perlis,41.0
+AOR_2024_Q4.pdf,2024,Q4,Negeri Sembilan,42.2
+AOR_2024_Q4.pdf,2024,Q4,Melaka,45.4
+AOR_2024_Q4.pdf,2024,Q4,Johor,52.3
+AOR_2024_Q4.pdf,2024,Q4,Pahang,75.6
+AOR_2024_Q4.pdf,2024,Q4,Terengganu,46.3
+AOR_2024_Q4.pdf,2024,Q4,Kelantan,43.2
+AOR_2024_Q4.pdf,2024,Q4,Sabah,51.6
+AOR_2024_Q4.pdf,2024,Q4,W.P. Labuan,37.0
+AOR_2024_Q4.pdf,2024,Q4,Sarawak,47.7
+AOR_2025_Q1.pdf,2025,Q1,W.P. Kuala Lumpur,61.4
+AOR_2025_Q1.pdf,2025,Q1,W.P. Putrajaya,56.7
+AOR_2025_Q1.pdf,2025,Q1,Selangor,49.1
+AOR_2025_Q1.pdf,2025,Q1,Pulau Pinang,53.6
+AOR_2025_Q1.pdf,2025,Q1,Perak,38.7
+AOR_2025_Q1.pdf,2025,Q1,Kedah,49.1
+AOR_2025_Q1.pdf,2025,Q1,Perlis,35.1
+AOR_2025_Q1.pdf,2025,Q1,Negeri Sembilan,38.3
+AOR_2025_Q1.pdf,2025,Q1,Melaka,41.0
+AOR_2025_Q1.pdf,2025,Q1,Johor,48.0
+AOR_2025_Q1.pdf,2025,Q1,Pahang,73.6
+AOR_2025_Q1.pdf,2025,Q1,Terengganu,36.7
+AOR_2025_Q1.pdf,2025,Q1,Kelantan,38.3
+AOR_2025_Q1.pdf,2025,Q1,Sabah,53.8
+AOR_2025_Q1.pdf,2025,Q1,W.P. Labuan,36.3
+AOR_2025_Q1.pdf,2025,Q1,Sarawak,40.7
+AOR_2025_Q2.pdf,2025,Q2,W.P. Kuala Lumpur,63.6
+AOR_2025_Q2.pdf,2025,Q2,W.P. Putrajaya,56.0
+AOR_2025_Q2.pdf,2025,Q2,Selangor,50.8
+AOR_2025_Q2.pdf,2025,Q2,Pulau Pinang,54.8
+AOR_2025_Q2.pdf,2025,Q2,Perak,42.8
+AOR_2025_Q2.pdf,2025,Q2,Kedah,49.7
+AOR_2025_Q2.pdf,2025,Q2,Perlis,41.5
+AOR_2025_Q2.pdf,2025,Q2,Negeri Sembilan,39.9
+AOR_2025_Q2.pdf,2025,Q2,Melaka,42.8
+AOR_2025_Q2.pdf,2025,Q2,Johor,51.9
+AOR_2025_Q2.pdf,2025,Q2,Pahang,75.2
+AOR_2025_Q2.pdf,2025,Q2,Terengganu,41.5
+AOR_2025_Q2.pdf,2025,Q2,Kelantan,41.8
+AOR_2025_Q2.pdf,2025,Q2,Sabah,52.0
+AOR_2025_Q2.pdf,2025,Q2,W.P. Labuan,38.4
+AOR_2025_Q2.pdf,2025,Q2,Sarawak,43.8
+AOR_2025_Q3.pdf,2025,Q3,W.P. Kuala Lumpur,65.4
+AOR_2025_Q3.pdf,2025,Q3,W.P. Putrajaya,55.9
+AOR_2025_Q3.pdf,2025,Q3,Selangor,53.6
+AOR_2025_Q3.pdf,2025,Q3,Pulau Pinang,57.6
+AOR_2025_Q3.pdf,2025,Q3,Perak,45.6
+AOR_2025_Q3.pdf,2025,Q3,Kedah,50.8
+AOR_2025_Q3.pdf,2025,Q3,Perlis,41.3
+AOR_2025_Q3.pdf,2025,Q3,Negeri Sembilan,43.0
+AOR_2025_Q3.pdf,2025,Q3,Melaka,44.5
+AOR_2025_Q3.pdf,2025,Q3,Johor,53.7
+AOR_2025_Q3.pdf,2025,Q3,Pahang,76.2
+AOR_2025_Q3.pdf,2025,Q3,Terengganu,46.5
+AOR_2025_Q3.pdf,2025,Q3,Kelantan,45.6
+AOR_2025_Q3.pdf,2025,Q3,Sabah,54.4
+AOR_2025_Q3.pdf,2025,Q3,W.P. Labuan,39.2
+AOR_2025_Q3.pdf,2025,Q3,Sarawak,46.9
+AOR_2025_Q4.pdf,2025,Q4,W.P. Kuala Lumpur,66.9
+AOR_2025_Q4.pdf,2025,Q4,W.P. Putrajaya,56.0
+AOR_2025_Q4.pdf,2025,Q4,Selangor,54.8
+AOR_2025_Q4.pdf,2025,Q4,Pulau Pinang,58.6
+AOR_2025_Q4.pdf,2025,Q4,Perak,46.4
+AOR_2025_Q4.pdf,2025,Q4,Kedah,50.9
+AOR_2025_Q4.pdf,2025,Q4,Perlis,41.7
+AOR_2025_Q4.pdf,2025,Q4,Negeri Sembilan,44.2
+AOR_2025_Q4.pdf,2025,Q4,Melaka,46.1
+AOR_2025_Q4.pdf,2025,Q4,Johor,54.2
+AOR_2025_Q4.pdf,2025,Q4,Pahang,76.3
+AOR_2025_Q4.pdf,2025,Q4,Terengganu,45.6
+AOR_2025_Q4.pdf,2025,Q4,Kelantan,43.5
+AOR_2025_Q4.pdf,2025,Q4,Sabah,54.1
+AOR_2025_Q4.pdf,2025,Q4,W.P. Labuan,39.4
+AOR_2025_Q4.pdf,2025,Q4,Sarawak,47.3
+AOR_2026_Q1.pdf,2026,Q1,W.P. Kuala Lumpur,60.7
+AOR_2026_Q1.pdf,2026,Q1,W.P. Putrajaya,54.9
+AOR_2026_Q1.pdf,2026,Q1,Selangor,50.7
+AOR_2026_Q1.pdf,2026,Q1,Pulau Pinang,55.5
+AOR_2026_Q1.pdf,2026,Q1,Perak,43.0
+AOR_2026_Q1.pdf,2026,Q1,Kedah,51.9
+AOR_2026_Q1.pdf,2026,Q1,Perlis,33.5
+AOR_2026_Q1.pdf,2026,Q1,Negeri Sembilan,39.0
+AOR_2026_Q1.pdf,2026,Q1,Melaka,36.7
+AOR_2026_Q1.pdf,2026,Q1,Johor,45.2
+AOR_2026_Q1.pdf,2026,Q1,Pahang,70.5
+AOR_2026_Q1.pdf,2026,Q1,Terengganu,34.4
+AOR_2026_Q1.pdf,2026,Q1,Kelantan,33.8
+AOR_2026_Q1.pdf,2026,Q1,Sabah,51.9
+AOR_2026_Q1.pdf,2026,Q1,W.P. Labuan,30.9
+AOR_2026_Q1.pdf,2026,Q1,Sarawak,39.0

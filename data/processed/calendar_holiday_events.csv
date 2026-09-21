@@ -1,0 +1,25 @@
+month,cuti_sekolah_days,public_holidays,long_weekends,demand_multiplier,event_highlights
+2025-01,5,3,1,1.15,New Year & Thaipusam
+2025-02,12,3,2,1.35,Chinese New Year & End-of-Academic-Year Break
+2025-03,8,2,1,1.20,Ramadan Commencement & State Holidays
+2025-04,6,3,2,1.40,Hari Raya Aidilfitri Nationwide Holiday Exodus
+2025-05,9,4,2,1.30,Labour Day & Wesak Day Long Weekends
+2025-06,9,2,1,1.38,Term 1 Mid-Year School Holiday
+2025-07,0,1,1,1.05,Regular Off-Peak Month
+2025-08,9,2,2,1.42,National Day & Merdeka School Holiday
+2025-09,9,2,2,1.45,Malaysia Day & Prophet Muhammad's Birthday Peak
+2025-10,0,1,0,1.02,Deepavali Shoulder Period
+2025-11,0,0,0,0.98,Shoulder Period before Year-End Surges
+2025-12,16,2,2,1.60,Major Year-End School Holidays & Christmas Peak
+2026-01,10,3,1,1.25,New Year & Pre-CNY Travel
+2026-02,14,3,2,1.50,Chinese New Year Festive Surge
+2026-03,6,2,1,1.18,School Term Break & Ramadan
+2026-04,5,3,2,1.42,Hari Raya Aidilfitri Festive Travel
+2026-05,9,4,2,1.32,Labour Day & Wesak Long Weekend
+2026-06,10,2,2,1.40,Mid-Year School Holiday Peak
+2026-07,0,1,0,1.05,Mid-Year Shoulder
+2026-08,9,2,2,1.45,Merdeka Week & Term 2 School Holidays
+2026-09,9,2,2,1.48,Malaysia Day Golden Travel Week
+2026-10,0,1,0,1.00,Inter-monsoon Shoulder
+2026-11,0,0,0,0.96,Off-peak Month
+2026-12,18,2,2,1.65,Peak Year-End Mega Holidays (Visit Malaysia 2026 Push)

@@ -1,0 +1,51 @@
+destination,state,district,category,relative_search_index,peak_month,dominant_query,method
+Melaka Tengah,Melaka,Melaka Tengah,Hotspot,100.0,December,"antique shops, ayer keroh, biodiversity",proxy: demand-normalized index; peak month from national demand calendar
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Hotspot,94.7,December,"aquaria klcc, art deco heritage, bargain shopping",proxy: demand-normalized index; peak month from national demand calendar
+Timur Laut,Pulau Pinang,Timur Laut,Hotspot,83.5,December,"beachfront dining, bookxcess, cinema",proxy: demand-normalized index; peak month from national demand calendar
+W.P. Labuan,W.P. Labuan,W.P. Labuan,Alternative,76.6,September,"anzac day, bbq picnics, brunai malay culture",proxy: demand-normalized index; peak month from national demand calendar
+W.P. Putrajaya,W.P. Putrajaya,W.P. Putrajaya,Alternative,73.1,September,"architectural bridges, bmx trail, botanical collections",proxy: demand-normalized index; peak month from national demand calendar
+Petaling,Selangor,Petaling,Hotspot,53.8,December,"al fresco dining, boutiques, central icity mall",proxy: demand-normalized index; peak month from national demand calendar
+Johor Bahru,Johor,Johor Bahru,Hotspot,53.6,December,"attraction, cinemas, community mall",proxy: demand-normalized index; peak month from national demand calendar
+Cameron Highlands,Pahang,Cameron Highlands,Hotspot,45.8,December,"agritourism, cool climate, fresh produce",proxy: demand-normalized index; peak month from national demand calendar
+Bentong,Pahang,Bentong,Alternative,45.7,September,"cable car, cable car station, casino resort",proxy: demand-normalized index; peak month from national demand calendar
+Kuantan,Pahang,Kuantan,Alternative,44.9,September,"cinema, community retail, dining",proxy: demand-normalized index; peak month from national demand calendar
+Kuching,Sarawak,Kuching,Alternative,41.4,September,"colonial square, darul hana bridge, department stores",proxy: demand-normalized index; peak month from national demand calendar
+Langkawi,Kedah,Langkawi,Hotspot,38.1,December,"beaches, beachfront dining, burnt rice",proxy: demand-normalized index; peak month from national demand calendar
+Kota Kinabalu,Sabah,Kota Kinabalu,Hotspot,37.2,December,"autocity, cinema, coastal park",proxy: demand-normalized index; peak month from national demand calendar
+Muar,Johor,Muar,Alternative,33.6,September,"heritage food, mee bandung, otak otak",proxy: demand-normalized index; peak month from national demand calendar
+Kinta,Perak,Kinta,Alternative,29.9,September,"bowling, british colonial, cascades",proxy: demand-normalized index; peak month from national demand calendar
+Gombak,Selangor,Gombak,Alternative,29.3,September,"272 rainbow steps, giant panda conservation, limestone caves",proxy: demand-normalized index; peak month from national demand calendar
+Miri,Sarawak,Miri,Alternative,26.6,September,"grand old lady, gunung mulu national park, luak esplanade",proxy: demand-normalized index; peak month from national demand calendar
+Port Dickson,Negeri Sembilan,Port Dickson,Hotspot,26.0,December,"ancient history, archaeology, army museum",proxy: demand-normalized index; peak month from national demand calendar
+Seberang Perai Tengah,Pulau Pinang,Seberang Perai Tengah,Alternative,25.0,September,"cinema, convention center, expanded mall",proxy: demand-normalized index; peak month from national demand calendar
+Kuala Terengganu,Terengganu,Kuala Terengganu,Hotspot,23.4,December,"batik terengganu, brassware, chinatown adjacent",proxy: demand-normalized index; peak month from national demand calendar
+Alor Gajah,Melaka,Alor Gajah,Alternative,23.1,September,"branded retail, chalets resort, dutch windmill",proxy: demand-normalized index; peak month from national demand calendar
+Bintulu,Sarawak,Bintulu,Alternative,22.5,September,"bbq picnic, belacan bintulu, casuarina coast",proxy: demand-normalized index; peak month from national demand calendar
+Batu Pahat,Johor,Batu Pahat,Alternative,22.5,September,"cinema, dining, district hub",proxy: demand-normalized index; peak month from national demand calendar
+Sandakan,Sabah,Sandakan,Alternative,22.2,September,"agnes keith house, bornea sun bears, labuk bay proboscis",proxy: demand-normalized index; peak month from national demand calendar
+Sibu,Sarawak,Sibu,Alternative,21.9,September,"base jumping, central sarawak mall, civic square",proxy: demand-normalized index; peak month from national demand calendar
+Sepang,Selangor,Sepang,Alternative,21.5,September,"district21 adventure, largest mall malaysia, olympic ice rink",proxy: demand-normalized index; peak month from national demand calendar
+Klang,Selangor,Klang,Alternative,21.0,September,"apparel accessories, b2b b2c retail, home decor",proxy: demand-normalized index; peak month from national demand calendar
+Seberang Perai Utara,Pulau Pinang,Seberang Perai Utara,Alternative,20.8,September,"butterworth art walk, container art, pantai bersih seafood",proxy: demand-normalized index; peak month from national demand calendar
+Semporna,Sabah,Semporna,Hotspot,20.1,December,"bajau laut stilt villages, coral reefs, epic viewpoint",proxy: demand-normalized index; peak month from national demand calendar
+Kuala Selangor,Selangor,Kuala Selangor,Alternative,19.8,September,"bukit malawati, fresh seafood, kampung kuantan fireflies",proxy: demand-normalized index; peak month from national demand calendar
+Manjung,Perak,Manjung,Alternative,19.2,September,"beaches, camping, coastal walk",proxy: demand-normalized index; peak month from national demand calendar
+Kota Tinggi,Johor,Kota Tinggi,Alternative,18.4,September,"beach, beach resort, coastal",proxy: demand-normalized index; peak month from national demand calendar
+Ranau,Sabah,Ranau,Hotspot,17.7,December,"boulder stream, camping, canopy walk",proxy: demand-normalized index; peak month from national demand calendar
+Pontian,Johor,Pontian,Alternative,17.7,September,"kukup water village, mangrove ramsar, seafood stilt dining",proxy: demand-normalized index; peak month from national demand calendar
+Larut & Matang,Perak,Larut & Matang,Alternative,16.6,September,"colonial heritage, conservation, first public garden",proxy: demand-normalized index; peak month from national demand calendar
+Seremban,Negeri Sembilan,Seremban,Alternative,16.4,September,"cinema, civic square, clock tower",proxy: demand-normalized index; peak month from national demand calendar
+Barat Daya,Pulau Pinang,Barat Daya,Alternative,16.2,September,"coastal view, largest mall in penang, retail chains",proxy: demand-normalized index; peak month from national demand calendar
+Kuala Muda,Kedah,Kuala Muda,Alternative,16.1,September,"belacan, coastal, community retail",proxy: demand-normalized index; peak month from national demand calendar
+Tawau,Sabah,Tawau,Alternative,15.9,September,"amplang crackers, dried seafood, indonesian batik",proxy: demand-normalized index; peak month from national demand calendar
+Hulu Langat,Selangor,Hulu Langat,Alternative,15.3,September,"broga hill hiking, forest reserves, gabai waterfall",proxy: demand-normalized index; peak month from national demand calendar
+Kota Setar,Kedah,Kota Setar,Alternative,15.1,September,"art gallery, baju melayu, cinema",proxy: demand-normalized index; peak month from national demand calendar
+Kluang,Johor,Kluang,Alternative,14.9,September,"gunung lambak, kluang rail coffee, organic agritourism",proxy: demand-normalized index; peak month from national demand calendar
+Rompin,Pahang,Rompin,Alternative,13.5,September,"coastal beaches, dive resorts, endau rompin national park",proxy: demand-normalized index; peak month from national demand calendar
+Kota Bharu,Kelantan,Kota Bharu,Alternative,12.8,September,"apparel, batik songket, batik workshops",proxy: demand-normalized index; peak month from national demand calendar
+Tuaran,Sabah,Tuaran,Alternative,11.9,September,"bajau horsemen, dalit bay resort, rumah terbalik",proxy: demand-normalized index; peak month from national demand calendar
+Temerloh,Pahang,Temerloh,Alternative,10.9,September,"kuala gandah elephants, patin tempoyak capital, pekan sehari temerloh",proxy: demand-normalized index; peak month from national demand calendar
+Kemaman,Terengganu,Kemaman,Alternative,10.6,September,"cherating border, hai peng kopitiam, pantai kemasik",proxy: demand-normalized index; peak month from national demand calendar
+Besut,Terengganu,Besut,Alternative,10.5,September,"air panas la, bukit keluang beach, marine park",proxy: demand-normalized index; peak month from national demand calendar
+Seberang Perai Selatan,Pulau Pinang,Seberang Perai Selatan,Alternative,10.3,September,"bukit tambun seafood, design village outlet, ikea batu kawan",proxy: demand-normalized index; peak month from national demand calendar
+Penampang,Sabah,Penampang,Alternative,10.2,September,"kaamatan harvest, kadazandusun heartland, monsopiad cultural village",proxy: demand-normalized index; peak month from national demand calendar

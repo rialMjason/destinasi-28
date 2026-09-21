@@ -1,0 +1,219 @@
+source_file,year,period,state,hotels_count,rooms_count
+hotel_inventory_2022.pdf,2022,Annual,Johor,535,34294
+hotel_inventory_2022.pdf,2022,Annual,Kedah,116,5682
+hotel_inventory_2022.pdf,2022,Annual,Kelantan,158,6075
+hotel_inventory_2022.pdf,2022,Annual,Kuala Lumpur,423,55641
+hotel_inventory_2022.pdf,2022,Annual,Labuan,47,2284
+hotel_inventory_2022.pdf,2022,Annual,Melaka,350,19343
+hotel_inventory_2022.pdf,2022,Annual,Negeri Sembilan,161,11129
+hotel_inventory_2022.pdf,2022,Annual,Pahang,500,34183
+hotel_inventory_2022.pdf,2022,Annual,Perak,488,19976
+hotel_inventory_2022.pdf,2022,Annual,Perlis,41,1361
+hotel_inventory_2022.pdf,2022,Annual,Pulau Pinang,362,24704
+hotel_inventory_2022.pdf,2022,Annual,Putrajaya,9,1937
+hotel_inventory_2022.pdf,2022,Annual,Sabah,479,25344
+hotel_inventory_2022.pdf,2022,Annual,Sarawak,495,25610
+hotel_inventory_2022.pdf,2022,Annual,Selangor,439,32241
+hotel_inventory_2022.pdf,2022,Annual,Terengganu,253,10993
+hotel_inventory_2023_Q1.pdf,2023,Q1,Johor,538,34511
+hotel_inventory_2023_Q1.pdf,2023,Q1,Kedah,116,5750
+hotel_inventory_2023_Q1.pdf,2023,Q1,Kelantan,158,6075
+hotel_inventory_2023_Q1.pdf,2023,Q1,Kuala Lumpur,424,55893
+hotel_inventory_2023_Q1.pdf,2023,Q1,Labuan,47,2284
+hotel_inventory_2023_Q1.pdf,2023,Q1,Melaka,352,19686
+hotel_inventory_2023_Q1.pdf,2023,Q1,Negeri Sembilan,161,11129
+hotel_inventory_2023_Q1.pdf,2023,Q1,Pahang,500,34181
+hotel_inventory_2023_Q1.pdf,2023,Q1,Perak,488,19976
+hotel_inventory_2023_Q1.pdf,2023,Q1,Perlis,41,1361
+hotel_inventory_2023_Q1.pdf,2023,Q1,Pulau Pinang,360,24490
+hotel_inventory_2023_Q1.pdf,2023,Q1,Putrajaya,10,1999
+hotel_inventory_2023_Q1.pdf,2023,Q1,Sabah,485,25612
+hotel_inventory_2023_Q1.pdf,2023,Q1,Sarawak,515,26177
+hotel_inventory_2023_Q1.pdf,2023,Q1,Selangor,439,32241
+hotel_inventory_2023_Q1.pdf,2023,Q1,Terengganu,253,10993
+hotel_inventory_2023_Q2.pdf,2023,Q2,Johor,538,34511
+hotel_inventory_2023_Q2.pdf,2023,Q2,Kedah,320,18257
+hotel_inventory_2023_Q2.pdf,2023,Q2,Kelantan,158,6075
+hotel_inventory_2023_Q2.pdf,2023,Q2,Kuala Lumpur,428,56237
+hotel_inventory_2023_Q2.pdf,2023,Q2,Labuan,47,2284
+hotel_inventory_2023_Q2.pdf,2023,Q2,Melaka,353,19973
+hotel_inventory_2023_Q2.pdf,2023,Q2,Negeri Sembilan,161,11129
+hotel_inventory_2023_Q2.pdf,2023,Q2,Pahang,501,34199
+hotel_inventory_2023_Q2.pdf,2023,Q2,Perak,486,19728
+hotel_inventory_2023_Q2.pdf,2023,Q2,Perlis,41,1361
+hotel_inventory_2023_Q2.pdf,2023,Q2,Pulau Pinang,359,24364
+hotel_inventory_2023_Q2.pdf,2023,Q2,Putrajaya,10,1999
+hotel_inventory_2023_Q2.pdf,2023,Q2,Sabah,487,25670
+hotel_inventory_2023_Q2.pdf,2023,Q2,Sarawak,515,26206
+hotel_inventory_2023_Q2.pdf,2023,Q2,Selangor,441,32825
+hotel_inventory_2023_Q2.pdf,2023,Q2,Terengganu,253,10993
+hotel_inventory_2023_Q3.pdf,2023,Q3,Johor,538,34603
+hotel_inventory_2023_Q3.pdf,2023,Q3,Kedah,321,18073
+hotel_inventory_2023_Q3.pdf,2023,Q3,Kelantan,170,6380
+hotel_inventory_2023_Q3.pdf,2023,Q3,Kuala Lumpur,432,57434
+hotel_inventory_2023_Q3.pdf,2023,Q3,Labuan,50,2306
+hotel_inventory_2023_Q3.pdf,2023,Q3,Melaka,354,19905
+hotel_inventory_2023_Q3.pdf,2023,Q3,Negeri Sembilan,161,10624
+hotel_inventory_2023_Q3.pdf,2023,Q3,Pahang,502,33486
+hotel_inventory_2023_Q3.pdf,2023,Q3,Perak,487,19763
+hotel_inventory_2023_Q3.pdf,2023,Q3,Perlis,44,1444
+hotel_inventory_2023_Q3.pdf,2023,Q3,Pulau Pinang,363,25288
+hotel_inventory_2023_Q3.pdf,2023,Q3,Putrajaya,12,2508
+hotel_inventory_2023_Q3.pdf,2023,Q3,Sabah,488,25565
+hotel_inventory_2023_Q3.pdf,2023,Q3,Sarawak,501,26187
+hotel_inventory_2023_Q3.pdf,2023,Q3,Selangor,444,32661
+hotel_inventory_2023_Q3.pdf,2023,Q3,Terengganu,254,10863
+hotel_inventory_2023_Q4.pdf,2023,Q4,Johor,548,35208
+hotel_inventory_2023_Q4.pdf,2023,Q4,Kedah,330,19029
+hotel_inventory_2023_Q4.pdf,2023,Q4,Kelantan,169,6269
+hotel_inventory_2023_Q4.pdf,2023,Q4,Kuala Lumpur,448,60872
+hotel_inventory_2023_Q4.pdf,2023,Q4,Labuan,49,2272
+hotel_inventory_2023_Q4.pdf,2023,Q4,Melaka,355,19961
+hotel_inventory_2023_Q4.pdf,2023,Q4,Negeri Sembilan,161,10643
+hotel_inventory_2023_Q4.pdf,2023,Q4,Pahang,503,33387
+hotel_inventory_2023_Q4.pdf,2023,Q4,Perak,487,19763
+hotel_inventory_2023_Q4.pdf,2023,Q4,Perlis,44,1444
+hotel_inventory_2023_Q4.pdf,2023,Q4,Pulau Pinang,364,25543
+hotel_inventory_2023_Q4.pdf,2023,Q4,Putrajaya,12,2508
+hotel_inventory_2023_Q4.pdf,2023,Q4,Sabah,532,26706
+hotel_inventory_2023_Q4.pdf,2023,Q4,Sarawak,503,26592
+hotel_inventory_2023_Q4.pdf,2023,Q4,Selangor,444,32656
+hotel_inventory_2023_Q4.pdf,2023,Q4,Terengganu,255,10927
+hotel_inventory_2024_Q1.pdf,2024,Q1,Johor,547,35295
+hotel_inventory_2024_Q1.pdf,2024,Q1,Kedah,330,19029
+hotel_inventory_2024_Q1.pdf,2024,Q1,Kelantan,169,6269
+hotel_inventory_2024_Q1.pdf,2024,Q1,Kuala Lumpur,451,61357
+hotel_inventory_2024_Q1.pdf,2024,Q1,Labuan,49,2272
+hotel_inventory_2024_Q1.pdf,2024,Q1,Melaka,356,20174
+hotel_inventory_2024_Q1.pdf,2024,Q1,Negeri Sembilan,160,10643
+hotel_inventory_2024_Q1.pdf,2024,Q1,Pahang,503,33387
+hotel_inventory_2024_Q1.pdf,2024,Q1,Perak,487,19763
+hotel_inventory_2024_Q1.pdf,2024,Q1,Perlis,44,1448
+hotel_inventory_2024_Q1.pdf,2024,Q1,Pulau Pinang,372,26193
+hotel_inventory_2024_Q1.pdf,2024,Q1,Putrajaya,12,2508
+hotel_inventory_2024_Q1.pdf,2024,Q1,Sabah,534,27150
+hotel_inventory_2024_Q1.pdf,2024,Q1,Sarawak,512,27191
+hotel_inventory_2024_Q1.pdf,2024,Q1,Selangor,453,34412
+hotel_inventory_2024_Q1.pdf,2024,Q1,Terengganu,255,10927
+hotel_inventory_2024_Q2.pdf,2024,Q2,Johor,550,35902
+hotel_inventory_2024_Q2.pdf,2024,Q2,Kedah,329,18800
+hotel_inventory_2024_Q2.pdf,2024,Q2,Kelantan,169,6268
+hotel_inventory_2024_Q2.pdf,2024,Q2,Kuala Lumpur,455,62639
+hotel_inventory_2024_Q2.pdf,2024,Q2,Labuan,50,2296
+hotel_inventory_2024_Q2.pdf,2024,Q2,Melaka,354,19997
+hotel_inventory_2024_Q2.pdf,2024,Q2,Negeri Sembilan,163,10785
+hotel_inventory_2024_Q2.pdf,2024,Q2,Pahang,504,34176
+hotel_inventory_2024_Q2.pdf,2024,Q2,Perak,482,19613
+hotel_inventory_2024_Q2.pdf,2024,Q2,Perlis,44,1448
+hotel_inventory_2024_Q2.pdf,2024,Q2,Pulau Pinang,372,26203
+hotel_inventory_2024_Q2.pdf,2024,Q2,Putrajaya,12,2508
+hotel_inventory_2024_Q2.pdf,2024,Q2,Sabah,539,27128
+hotel_inventory_2024_Q2.pdf,2024,Q2,Sarawak,512,27419
+hotel_inventory_2024_Q2.pdf,2024,Q2,Selangor,458,34657
+hotel_inventory_2024_Q2.pdf,2024,Q2,Terengganu,255,11298
+hotel_inventory_2024_Q3.pdf,2024,Q3,Johor,550,35902
+hotel_inventory_2024_Q3.pdf,2024,Q3,Kelantan,170,6362
+hotel_inventory_2024_Q3.pdf,2024,Q3,Kuala Lumpur,463,63654
+hotel_inventory_2024_Q3.pdf,2024,Q3,Labuan,50,2296
+hotel_inventory_2024_Q3.pdf,2024,Q3,Melaka,354,19940
+hotel_inventory_2024_Q3.pdf,2024,Q3,Pahang,503,34270
+hotel_inventory_2024_Q3.pdf,2024,Q3,Perak,483,19648
+hotel_inventory_2024_Q3.pdf,2024,Q3,Perlis,44,1448
+hotel_inventory_2024_Q3.pdf,2024,Q3,Pulau Pinang,373,26259
+hotel_inventory_2024_Q3.pdf,2024,Q3,Putrajaya,12,2508
+hotel_inventory_2024_Q3.pdf,2024,Q3,Sabah,539,27160
+hotel_inventory_2024_Q3.pdf,2024,Q3,Sarawak,513,27472
+hotel_inventory_2024_Q3.pdf,2024,Q3,Selangor,460,35251
+hotel_inventory_2024_Q3.pdf,2024,Q3,Terengganu,256,11190
+hotel_inventory_2024_Q4.pdf,2024,Q4,Johor,552,36043
+hotel_inventory_2024_Q4.pdf,2024,Q4,Kelantan,170,6362
+hotel_inventory_2024_Q4.pdf,2024,Q4,Kuala Lumpur,464,63973
+hotel_inventory_2024_Q4.pdf,2024,Q4,Labuan,50,2296
+hotel_inventory_2024_Q4.pdf,2024,Q4,Melaka,354,20159
+hotel_inventory_2024_Q4.pdf,2024,Q4,Pahang,501,34323
+hotel_inventory_2024_Q4.pdf,2024,Q4,Perak,481,19299
+hotel_inventory_2024_Q4.pdf,2024,Q4,Perlis,44,1489
+hotel_inventory_2024_Q4.pdf,2024,Q4,Pulau Pinang,376,26692
+hotel_inventory_2024_Q4.pdf,2024,Q4,Putrajaya,13,2580
+hotel_inventory_2024_Q4.pdf,2024,Q4,Sabah,540,27208
+hotel_inventory_2024_Q4.pdf,2024,Q4,Sarawak,522,27913
+hotel_inventory_2024_Q4.pdf,2024,Q4,Selangor,460,34883
+hotel_inventory_2024_Q4.pdf,2024,Q4,Terengganu,256,11190
+hotel_inventory_2025_Q1.pdf,2025,Q1,Johor,552,36034
+hotel_inventory_2025_Q1.pdf,2025,Q1,Kelantan,170,6362
+hotel_inventory_2025_Q1.pdf,2025,Q1,Kuala Lumpur,470,64773
+hotel_inventory_2025_Q1.pdf,2025,Q1,Labuan,50,2291
+hotel_inventory_2025_Q1.pdf,2025,Q1,Melaka,357,20835
+hotel_inventory_2025_Q1.pdf,2025,Q1,Pahang,501,34267
+hotel_inventory_2025_Q1.pdf,2025,Q1,Perak,483,19636
+hotel_inventory_2025_Q1.pdf,2025,Q1,Perlis,44,1489
+hotel_inventory_2025_Q1.pdf,2025,Q1,Pulau Pinang,379,27494
+hotel_inventory_2025_Q1.pdf,2025,Q1,Putrajaya,13,2580
+hotel_inventory_2025_Q1.pdf,2025,Q1,Sabah,540,27230
+hotel_inventory_2025_Q1.pdf,2025,Q1,Sarawak,522,27918
+hotel_inventory_2025_Q1.pdf,2025,Q1,Selangor,460,34949
+hotel_inventory_2025_Q1.pdf,2025,Q1,Terengganu,256,11190
+hotel_inventory_2025_Q2.pdf,2025,Q2,Johor,555,36196
+hotel_inventory_2025_Q2.pdf,2025,Q2,Kedah,330,18680
+hotel_inventory_2025_Q2.pdf,2025,Q2,Kelantan,171,6381
+hotel_inventory_2025_Q2.pdf,2025,Q2,Kuala Lumpur,476,65251
+hotel_inventory_2025_Q2.pdf,2025,Q2,Labuan,50,2291
+hotel_inventory_2025_Q2.pdf,2025,Q2,Melaka,357,20653
+hotel_inventory_2025_Q2.pdf,2025,Q2,Negeri Sembilan,168,11042
+hotel_inventory_2025_Q2.pdf,2025,Q2,Pahang,505,34399
+hotel_inventory_2025_Q2.pdf,2025,Q2,Perak,483,19633
+hotel_inventory_2025_Q2.pdf,2025,Q2,Perlis,45,1504
+hotel_inventory_2025_Q2.pdf,2025,Q2,Pulau Pinang,382,27349
+hotel_inventory_2025_Q2.pdf,2025,Q2,Putrajaya,15,2656
+hotel_inventory_2025_Q2.pdf,2025,Q2,Sabah,541,27246
+hotel_inventory_2025_Q2.pdf,2025,Q2,Sarawak,522,27918
+hotel_inventory_2025_Q2.pdf,2025,Q2,Selangor,461,35073
+hotel_inventory_2025_Q2.pdf,2025,Q2,Terengganu,258,11262
+hotel_inventory_2025_Q3.pdf,2025,Q3,Johor,553,35799
+hotel_inventory_2025_Q3.pdf,2025,Q3,Kedah,330,18677
+hotel_inventory_2025_Q3.pdf,2025,Q3,Kelantan,171,6381
+hotel_inventory_2025_Q3.pdf,2025,Q3,Kuala Lumpur,479,66266
+hotel_inventory_2025_Q3.pdf,2025,Q3,Labuan,50,2291
+hotel_inventory_2025_Q3.pdf,2025,Q3,Melaka,357,20653
+hotel_inventory_2025_Q3.pdf,2025,Q3,Negeri Sembilan,173,11493
+hotel_inventory_2025_Q3.pdf,2025,Q3,Pahang,505,34399
+hotel_inventory_2025_Q3.pdf,2025,Q3,Perak,484,19543
+hotel_inventory_2025_Q3.pdf,2025,Q3,Perlis,46,1553
+hotel_inventory_2025_Q3.pdf,2025,Q3,Pulau Pinang,384,28045
+hotel_inventory_2025_Q3.pdf,2025,Q3,Putrajaya,15,2656
+hotel_inventory_2025_Q3.pdf,2025,Q3,Sabah,544,27513
+hotel_inventory_2025_Q3.pdf,2025,Q3,Sarawak,523,28303
+hotel_inventory_2025_Q3.pdf,2025,Q3,Selangor,462,35073
+hotel_inventory_2025_Q3.pdf,2025,Q3,Terengganu,258,11312
+hotel_inventory_2025_Q4.pdf,2025,Q4,Johor,553,35799
+hotel_inventory_2025_Q4.pdf,2025,Q4,Kedah,330,18679
+hotel_inventory_2025_Q4.pdf,2025,Q4,Kelantan,224,6392
+hotel_inventory_2025_Q4.pdf,2025,Q4,Kuala Lumpur,479,66133
+hotel_inventory_2025_Q4.pdf,2025,Q4,Labuan,50,2298
+hotel_inventory_2025_Q4.pdf,2025,Q4,Melaka,357,20655
+hotel_inventory_2025_Q4.pdf,2025,Q4,Negeri Sembilan,174,11527
+hotel_inventory_2025_Q4.pdf,2025,Q4,Pahang,505,34401
+hotel_inventory_2025_Q4.pdf,2025,Q4,Perak,486,19572
+hotel_inventory_2025_Q4.pdf,2025,Q4,Perlis,46,1553
+hotel_inventory_2025_Q4.pdf,2025,Q4,Pulau Pinang,384,28045
+hotel_inventory_2025_Q4.pdf,2025,Q4,Putrajaya,15,2656
+hotel_inventory_2025_Q4.pdf,2025,Q4,Sabah,544,27254
+hotel_inventory_2025_Q4.pdf,2025,Q4,Sarawak,523,28236
+hotel_inventory_2025_Q4.pdf,2025,Q4,Selangor,462,35066
+hotel_inventory_2025_Q4.pdf,2025,Q4,Terengganu,258,11314
+hotel_inventory_2026_Q1.pdf,2026,Q1,Kuala Lumpur,478,66788
+hotel_inventory_2026_Q1.pdf,2026,Q1,Johor,552,35599
+hotel_inventory_2026_Q1.pdf,2026,Q1,Selangor,462,35071
+hotel_inventory_2026_Q1.pdf,2026,Q1,Pahang,505,34435
+hotel_inventory_2026_Q1.pdf,2026,Q1,Sarawak,523,28236
+hotel_inventory_2026_Q1.pdf,2026,Q1,Pulau Pinang,384,28045
+hotel_inventory_2026_Q1.pdf,2026,Q1,Sabah,545,27420
+hotel_inventory_2026_Q1.pdf,2026,Q1,Melaka,357,20655
+hotel_inventory_2026_Q1.pdf,2026,Q1,Perak,486,19572
+hotel_inventory_2026_Q1.pdf,2026,Q1,Kedah,330,18679
+hotel_inventory_2026_Q1.pdf,2026,Q1,Negeri Sembilan,171,11410
+hotel_inventory_2026_Q1.pdf,2026,Q1,Terengganu,258,11314
+hotel_inventory_2026_Q1.pdf,2026,Q1,Kelantan,224,6392
+hotel_inventory_2026_Q1.pdf,2026,Q1,Putrajaya,15,2656
+hotel_inventory_2026_Q1.pdf,2026,Q1,Labuan,50,2298
+hotel_inventory_2026_Q1.pdf,2026,Q1,Perlis,46,1553

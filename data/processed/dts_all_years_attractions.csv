@@ -1,0 +1,451 @@
+year,state,rank,attraction_name
+2020,Johor,1,Desaru
+2020,Johor,2,Angsana Johor Bahru Mall
+2020,Johor,3,Johor Premium Outlet (JPO)
+2020,Johor,4,KSL City
+2020,Johor,5,Air Terjun Kota Tinggi
+2020,Kedah,1,Pulau Langkawi
+2020,Kedah,2,Menara Alor Setar
+2020,Kedah,3,Gunung Keriang
+2020,Kedah,4,Aman Central Mall
+2020,Kedah,5,Pekan Rabu
+2020,Kelantan,1,Pasar Siti Khadijah
+2020,Kelantan,2,Masjid Bandar Pasir Mas
+2020,Kelantan,3,Kawasan Membeli Belah Bebas Cukai Rantau Panjang
+2020,Kelantan,4,Pantai Cahaya Bulan
+2020,Kelantan,5,Pasar Malam Wakaf Che Yeh
+2020,Melaka,1,Melaka River Cruise
+2020,Melaka,2,Pantai Pengkalan Balak
+2020,Melaka,3,Muzium Adat Istadat
+2020,Melaka,4,Taman Rama-Rama dan Reptilia
+2020,Melaka,5,Mahkota Parade
+2020,Pahang,1,Cameron Highlands
+2020,Pahang,2,Bukit Panorama
+2020,Pahang,3,Bukit Gambang Resort City
+2020,Pahang,4,Genting Premium Outlets
+2020,Pahang,5,East Cost Mall (ECM)
+2020,Pulau Pinang,1,Queens Bay
+2020,Pulau Pinang,2,Bukit Bendera
+2020,Pulau Pinang,3,Pantai Batu Ferringhi
+2020,Pulau Pinang,4,Gurney Plaza
+2020,Pulau Pinang,5,Prangin Mall
+2020,Perak,1,Durio Tourism Mardi
+2020,Perak,2,Pantai Teluk Nipah
+2020,Perak,3,Marina Island
+2020,Perak,4,Ipoh Town Hall
+2020,Perak,5,Air Terjun Ulu Kinta
+2020,Perlis,1,Kuala Perlis
+2020,Perlis,2,Arked Niaga Padang Besar
+2020,Perlis,3,Tasik Timah Tasoh
+2020,Perlis,4,Hutan Lipur Bukit Ayer
+2020,Perlis,5,Taman Rekreasi Pengkalan Asam
+2020,Selangor,1,The Curve
+2020,Selangor,2,Sunway Pyramid Shopping Mall
+2020,Selangor,3,Zoo Negara
+2020,Selangor,4,Pantai Morib
+2020,Selangor,5,One Utama Shopping Centre
+2020,Terengganu,1,Pantai Batu Buruk
+2020,Terengganu,2,Pasar Besar Kedai Payang
+2020,Terengganu,3,Drawbridge
+2020,Terengganu,4,KTCC Mall
+2020,Terengganu,5,Pantai Teluk Lipat
+2020,Sabah,1,Imago Shopping Centre
+2020,Sabah,2,Suria Sabah Shopping Mall
+2020,Sabah,3,Ladang Lembu Tenusu
+2020,Sabah,4,Pulau Bohey Dulang
+2020,Sabah,5,Sungai Melangkap
+2020,Sarawak,1,Pasar Sentral Sibu
+2020,Sarawak,2,Daesco Star Mega Mall
+2020,Sarawak,3,Vivacity Megamall
+2020,Sarawak,4,Park City Mall
+2020,Sarawak,5,The Spring Mall Bintulu
+2020,W.P. Kuala Lumpur,1,Mid Valley
+2020,W.P. Kuala Lumpur,2,Kuala Lumpur City Centre (KLCC)
+2020,W.P. Kuala Lumpur,3,Pavillion
+2020,W.P. Kuala Lumpur,4,SOGO
+2020,W.P. Kuala Lumpur,5,Sunway Putra Mall
+2020,W.P. Labuan,1,Pantai Pohon Batu
+2020,W.P. Labuan,2,Taman Burung Labuan
+2020,W.P. Labuan,3,Memorial Perang Dunia Kedua
+2020,W.P. Labuan,4,Pantai Pancur Hitam
+2020,W.P. Labuan,5,Kg. Patau-Patau
+2020,W.P. Putrajaya,1,Alamanda
+2020,W.P. Putrajaya,2,Masjid Putra
+2020,W.P. Putrajaya,3,Taman Botani
+2020,W.P. Putrajaya,4,Putrajaya International Convention Centre (PICC)
+2020,W.P. Putrajaya,5,Masjid Sultan Mizan Zainal Abidin
+2021,Johor,1,Paradigm Mall Johor Bahru
+2021,Johor,2,Pantai Desaru
+2021,Johor,3,Kota Tinggi Firefly Park
+2021,Johor,4,"The Mall, Mid Valley Southkey"
+2021,Johor,5,Batu Pahat Mall (BP Mall)
+2021,Kedah,1,Makam Mahsuri
+2021,Kedah,2,Perniagaan Haji Ismail Group
+2021,Kedah,3,Pantai Cenang
+2021,Kedah,4,Langkawi Cable Car
+2021,Kedah,5,Padang Matsirat
+2021,Kelantan,1,Aeon Lembah Sireh
+2021,Kelantan,2,KB Mall
+2021,Kelantan,3,Pasar Siti Khadijah
+2021,Kelantan,4,Pantai Cahaya Bulan
+2021,Kelantan,5,Pantai Irama
+2021,Melaka,1,Pantai Emas Klebang
+2021,Melaka,2,Mahkota Parade
+2021,Melaka,3,Dataran Pahlawan
+2021,Melaka,4,Taman Botanikal Melaka
+2021,Melaka,5,Pantai Pengkalan Balak
+2021,Pahang,1,East Cost Mall (ECM)
+2021,Pahang,2,Genting Premium Outlets
+2021,Pahang,3,Pantai Telok Chempedak
+2021,Pahang,4,Cameron Highlands
+2021,Pahang,5,Genting Highlands
+2021,Pulau Pinang,1,Queensbay Mall
+2021,Pulau Pinang,2,Gurney Plaza
+2021,Pulau Pinang,3,Gurney Paragon Mall
+2021,Pulau Pinang,4,Pantai Batu Feringghi
+2021,Pulau Pinang,5,1st Avenue Mall
+2021,Perak,1,Ipoh Parade Shopping Centre
+2021,Perak,2,Taman Tasik Taiping
+2021,Perak,3,Teluk Batik
+2021,Perak,4,Lost World of Tambun
+2021,Perak,5,Lumut Waterfront
+2021,Perlis,1,Tasik Timah Tasoh
+2021,Perlis,2,Taman Rekreasi Tasik Melati
+2021,Perlis,3,Arked Niaga Padang Besar
+2021,Perlis,4,Padang Waremart
+2021,Perlis,5,Hutan Lipur Bukit Ayer
+2021,Selangor,1,Sunway Pyramid Shopping Mall
+2021,Selangor,2,IDEAL Convention Centre (IDCC) Shah Alam
+2021,Selangor,3,GM Klang Wholesale City
+2021,Selangor,4,Pantai Morib
+2021,Selangor,5,The Curve
+2021,Terengganu,1,KTCC Mall
+2021,Terengganu,2,Pantai Batu Buruk
+2021,Terengganu,3,Terengganu Drawbridge
+2021,Terengganu,4,Pasar Besar Kedai Payang
+2021,Terengganu,5,Pulau Warisan (i-City Terengganu)
+2021,Sabah,1,Imago Shopping Mall
+2021,Sabah,2,One Borneo Hypermall
+2021,Sabah,3,Pasar Tanjung Tawau
+2021,Sabah,4,Karamunsing Shopping Mall
+2021,Sabah,5,Sutera Habour Golf & Country Club
+2021,Sarawak,1,The Spring Mall Bintulu
+2021,Sarawak,2,Daesco Star Mega Mall
+2021,Sarawak,3,Park City Mall
+2021,Sarawak,4,Vivacity Megamall
+2021,Sarawak,5,Pantai Tanjung Batu
+2021,W.P. Kuala Lumpur,1,Mid Valley Megamall
+2021,W.P. Kuala Lumpur,2,SOGO
+2021,W.P. Kuala Lumpur,3,Pavilion Kuala Lumpur
+2021,W.P. Kuala Lumpur,4,Kuala Lumpur Convention Centre (KLCC)
+2021,W.P. Kuala Lumpur,5,Putra World Trade Centre (PWTC)
+2021,W.P. Labuan,1,Pantai Pohon Batu
+2021,W.P. Labuan,2,Pantai Sg. Miri
+2021,W.P. Labuan,3,Pantai Pancur Hitam
+2021,W.P. Labuan,4,Taman Marin Labuan
+2021,W.P. Labuan,5,Memorial Perang Dunia Kedua
+2021,W.P. Putrajaya,1,Alamanda Shopping Centre
+2021,W.P. Putrajaya,2,Dataran Putra
+2021,W.P. Putrajaya,3,Putrajaya International Convention Centre (PICC)
+2021,W.P. Putrajaya,4,"Kelab Tasik Putrajaya, Presint 8"
+2021,W.P. Putrajaya,5,"Taman Botani, Presint 1"
+2022,Johor,1,Legoland Malaysia
+2022,Johor,2,Toppen Shopping Centre
+2022,Johor,3,Johor Premium Outlet (JPO)
+2022,Johor,4,Pantai Tanjung Balau
+2022,Johor,5,Paradigm Mall Johor Bahru
+2022,Kedah,1,Pantai Cenang
+2022,Kedah,2,Aman Central Mall
+2022,Kedah,3,Kompleks Pekan Rabu
+2022,Kedah,4,Air Terjun Telaga Tujuh
+2022,Kedah,5,Alor Star Mall
+2022,Kelantan,1,Aeon Lembah Sireh
+2022,Kelantan,2,Pantai Cahaya Bulan
+2022,Kelantan,3,KB Mall
+2022,Kelantan,4,Pasar Siti Khadijah
+2022,Kelantan,5,Pantai Irama
+2022,Melaka,1,Dataran Pahlawan
+2022,Melaka,2,Pantai Klebang
+2022,Melaka,3,Mahkota Parade
+2022,Melaka,4,Jonker Street/ Jalan Hang Jebat
+2022,Melaka,5,A' Famosa Resort
+2022,Pahang,1,Genting Highlands
+2022,Pahang,2,Cameron Highlands
+2022,Pahang,3,Pantai Teluk Cempedak
+2022,Pahang,4,"Strawberry Farm (Brinchang, Tanah Rata)"
+2022,Pahang,5,East Cost Mall (ECM)
+2022,Pulau Pinang,1,Queensbay Mall
+2022,Pulau Pinang,2,Pantai Batu Ferringhi
+2022,Pulau Pinang,3,Bukit Bendera
+2022,Pulau Pinang,4,Gurney Plaza
+2022,Pulau Pinang,5,KOMTAR
+2022,Perak,1,Ipoh Parade Shopping Centre
+2022,Perak,2,Zoo Taiping
+2022,Perak,3,Lost World of Tambun
+2022,Perak,4,Teluk Batik
+2022,Perak,5,Pulau Pangkor
+2022,Perlis,1,Arked Niaga Padang Besar
+2022,Perlis,2,Masjid Terapung
+2022,Perlis,3,Hutan Lipur Bukit Ayer
+2022,Perlis,4,Padang Waremart
+2022,Perlis,5,Tasik Timah Tasoh
+2022,Selangor,1,IOI City Mall
+2022,Selangor,2,The Curve
+2022,Selangor,3,Sunway Pyramid Shopping Mall
+2022,Selangor,4,GM Klang Wholesale City
+2022,Selangor,5,"i-City, Shah Alam"
+2022,Terengganu,1,KTCC Mall
+2022,Terengganu,2,Terengganu Drawbridge
+2022,Terengganu,3,Pantai Batu Buruk
+2022,Terengganu,4,Pasar Besar Kedai Payang
+2022,Terengganu,5,Pulau Warisan (i-City Terengganu)
+2022,Sabah,1,Imago Shopping Mall
+2022,Sabah,2,One Borneo Hypermall
+2022,Sabah,3,Desa Dairy Farm
+2022,Sabah,4,Air Panas Poring
+2022,Sabah,5,Suria Sabah Shopping Mall
+2022,Sarawak,1,Daesco Star Mega Mall
+2022,Sarawak,2,Pasar Sentral Sibu
+2022,Sarawak,3,Vivacity Megamall
+2022,Sarawak,4,Wisma Sanyan
+2022,Sarawak,5,The Spring Shopping Mall
+2022,W.P. Kuala Lumpur,1,Mid Valley Megamall
+2022,W.P. Kuala Lumpur,2,Berjaya Times Square
+2022,W.P. Kuala Lumpur,3,Pavilion Kuala Lumpur
+2022,W.P. Kuala Lumpur,4,SOGO
+2022,W.P. Kuala Lumpur,5,Lalaport Bukit Bintang City Centre (BBCC)
+2022,W.P. Labuan,1,Pantai Layang-layang
+2022,W.P. Labuan,2,Taman Marin Laut
+2022,W.P. Labuan,3,Kampung Patau-Patau
+2022,W.P. Labuan,4,Kompleks Ujana Kewangan
+2022,W.P. Labuan,5,Memorial Perang Dunia Kedua
+2022,W.P. Putrajaya,1,Alamanda Shopping Centre
+2022,W.P. Putrajaya,2,"Dataran Putrajaya, Presint 3"
+2022,W.P. Putrajaya,3,Galeria PJH
+2022,W.P. Putrajaya,4,Taman Cabaran
+2022,W.P. Putrajaya,5,"Taman Botani, Presint 1"
+2023,Johor,1,Paradigm Mall Johor Bahru
+2023,Johor,2,Pantai Desaru
+2023,Johor,3,Toppen Shopping Centre
+2023,Johor,4,"The Mall, Mid Valley Southkey"
+2023,Johor,5,Legoland Malaysia
+2023,Kedah,1,Pantai Cenang
+2023,Kedah,2,Aman Central Mall
+2023,Kedah,3,Langkawi Cable Car
+2023,Kedah,4,National Art Gallery
+2023,Kedah,5,Pantai Merdeka
+2023,Kelantan,1,AEON Lembah Sireh
+2023,Kelantan,2,Pasar Siti Khadijah
+2023,Kelantan,3,KB Mall
+2023,Kelantan,4,Pantai Irama
+2023,Kelantan,5,Kawasan Membeli Belah Bebas Cukai Rantau Panjang
+2023,Melaka,1,Pantai Klebang
+2023,Melaka,2,Dataran Pahlawan
+2023,Melaka,3,Mahkota Parade
+2023,Melaka,4,Jonker Street/ Jalan Hang Jebat
+2023,Melaka,5,Pantai Pengkalan Balak
+2023,Pahang,1,East Cost Mall (ECM)
+2023,Pahang,2,Kuantan City Mall
+2023,Pahang,3,Genting Highlands
+2023,Pahang,4,Cameron Highlands
+2023,Pahang,5,Pantai Teluk Cempedak
+2023,Pulau Pinang,1,Queensbay Mall
+2023,Pulau Pinang,2,Gurney Paragon Mall
+2023,Pulau Pinang,3,Pantai Batu Ferringhi
+2023,Pulau Pinang,4,1st Avenue Mall
+2023,Pulau Pinang,5,Bukit Bendera
+2023,Perak,1,Pulau Pangkor
+2023,Perak,2,Lost World of Tambun
+2023,Perak,3,Teluk Batik
+2023,Perak,4,Ipoh Parade Shopping Centre
+2023,Perak,5,Lumut Waterfront
+2023,Perlis,1,Arked Niaga Padang Besar
+2023,Perlis,2,Tasik Timah Tasoh
+2023,Perlis,3,Pantai Peranginan Sg. Berembang
+2023,Perlis,4,Hutan Lipur Bukit Ayer
+2023,Perlis,5,Padang Waremart
+2023,Selangor,1,IOI City Mall
+2023,Selangor,2,Sunway Pyramid Shopping Mall
+2023,Selangor,3,IKEA Damansara
+2023,Selangor,4,GM Klang Wholesale City
+2023,Selangor,5,"i-City, Shah Alam"
+2023,Terengganu,1,KTCC Mall
+2023,Terengganu,2,Pantai Miami Terengganu
+2023,Terengganu,3,Pantai Batu Buruk
+2023,Terengganu,4,Pasar Besar Kedai Payang
+2023,Terengganu,5,Pulau Warisan (i-City Terengganu)
+2023,Sabah,1,Imago Shopping Mall
+2023,Sabah,2,Pekan Kundasang & Pekan Nabalu
+2023,Sabah,3,Pantai Tanjung Aru
+2023,Sabah,4,Ladang Lembu Tenusu/ Desa Dairy Farm
+2023,Sabah,5,Centre Point Sabah
+2023,Sarawak,1,Daesco Star Mega Mall
+2023,Sarawak,2,Pasar Sentral Sibu
+2023,Sarawak,3,The Spring Mall Bintulu
+2023,Sarawak,4,AEON MALL Kuching Central
+2023,Sarawak,5,Vivacity Megamall
+2023,W.P. Kuala Lumpur,1,Mid Valley Megamall
+2023,W.P. Kuala Lumpur,2,Pavilion Kuala Lumpur
+2023,W.P. Kuala Lumpur,3,SOGO
+2023,W.P. Kuala Lumpur,4,Suria KLCC
+2023,W.P. Kuala Lumpur,5,Berjaya Times Square
+2023,W.P. Labuan,1,Kampung Patau-Patau
+2023,W.P. Labuan,2,Pantai Layang-layang
+2023,W.P. Labuan,3,Kompleks Sukan Laut Antarabangsa Labuan
+2023,W.P. Labuan,4,Pantai Pohon Batu
+2023,W.P. Labuan,5,Kompleks Ujang Kewangan
+2023,W.P. Putrajaya,1,Alamanda Shopping Centre
+2023,W.P. Putrajaya,2,"Dataran Putrajaya, Presint 3"
+2023,W.P. Putrajaya,3,Cruise Tasik Putrajaya
+2023,W.P. Putrajaya,4,Putrajaya International Convention Centre (PICC)
+2023,W.P. Putrajaya,5,"Taman Wetland, Presint 13"
+2024,Johor,1,Paradigm Mall Johor Bahru
+2024,Johor,2,Toppen Shopping Centre
+2024,Johor,3,Legoland Malaysia
+2024,Johor,4,Air Terjun Gunung Ledang
+2024,Johor,5,"The Mall, Mid Valley Southkey"
+2024,Kedah,1,Aman Central Mall
+2024,Kedah,2,Amanjaya Mall
+2024,Kedah,3,Pantai Cenang
+2024,Kedah,4,Dataran Lang
+2024,Kedah,5,Pantai Tanjung Dawai
+2024,Kelantan,1,AEON Lembah Sireh
+2024,Kelantan,2,Pasar Siti Khadijah
+2024,Kelantan,3,KB Mall
+2024,Kelantan,4,Pasar Malam Wakaf Che Yeh
+2024,Kelantan,5,Pantai Cahaya Bulan
+2024,Melaka,1,Pantai Klebang
+2024,Melaka,2,Jonker Street
+2024,Melaka,3,Mahkota Parade
+2024,Melaka,4,Dataran Pahlawan
+2024,Melaka,5,Zoo Melaka
+2024,Pahang,1,East Cost Mall (ECM)
+2024,Pahang,2,Pantai Teluk Cempedak
+2024,Pahang,3,Kuantan Parade
+2024,Pahang,4,Genting Highlands
+2024,Pahang,5,Cameron Highlands
+2024,Pulau Pinang,1,Queensbay Mall
+2024,Pulau Pinang,2,Pantai Batu Ferringhi
+2024,Pulau Pinang,3,Sunway Carnival Mall
+2024,Pulau Pinang,4,Gurney Plaza
+2024,Pulau Pinang,5,Bukit Bendera
+2024,Perak,1,Teluk Batik
+2024,Perak,2,Lumut Waterfront
+2024,Perak,3,Ipoh Night Market
+2024,Perak,4,Taman Rekreasi Gunung Lang
+2024,Perak,5,Pulau Pangkor
+2024,Perlis,1,Arked Niaga Padang Besar
+2024,Perlis,2,Medan Ikan Bakar Kuala Perlis
+2024,Perlis,3,Padang Waremart
+2024,Perlis,4,Hutan Lipur Bukit Ayer
+2024,Perlis,5,Menara Pandang Wang Kelian
+2024,Selangor,1,IOI City Mall
+2024,Selangor,2,Ikea Damansara
+2024,Selangor,3,Sunway Pyramid
+2024,Selangor,4,1 Utama Shopping Centre
+2024,Selangor,5,Batu Caves
+2024,Terengganu,1,KTCC Mall
+2024,Terengganu,2,Terengganu Drawbridge
+2024,Terengganu,3,Pantai Batu Buruk
+2024,Terengganu,4,Pasar Besar Kedai Payang
+2024,Terengganu,5,Pesisir Pantai Seberang Takir
+2024,Sabah,1,Imago Shopping Mall
+2024,Sabah,2,One Borneo Hypermall
+2024,Sabah,3,Suria Sabah Shopping Mall
+2024,Sabah,4,Centre Point Sabah
+2024,Sabah,5,Pantai Tanjung Aru
+2024,Sarawak,1,Daesco Star Mega Mall
+2024,Sarawak,2,The Spring Mall Bintulu
+2024,Sarawak,3,Pasar Sentral Sibu
+2024,Sarawak,4,Vivacity Megamall
+2024,Sarawak,5,Wisma Sanyan
+2024,W.P. Kuala Lumpur,1,SOGO
+2024,W.P. Kuala Lumpur,2,Mid Valley Megamall
+2024,W.P. Kuala Lumpur,3,Suria KLCC
+2024,W.P. Kuala Lumpur,4,Petaling Street Market
+2024,W.P. Kuala Lumpur,5,Pasar Seni
+2024,W.P. Labuan,1,Kompleks Ujana Kewangan
+2024,W.P. Labuan,2,Dataran Labuan
+2024,W.P. Labuan,3,Pantai Pohon Batu
+2024,W.P. Labuan,4,Kompleks Sukan Laut Antarabangsa Labuan
+2024,W.P. Labuan,5,Kampung Patau-Patau
+2024,W.P. Putrajaya,1,"Dataran Putrajaya, Presint 3"
+2024,W.P. Putrajaya,2,Alamanda Shopping Centre
+2024,W.P. Putrajaya,3,Masjid Putra
+2024,W.P. Putrajaya,4,Cruise Tasik Putrajaya
+2024,W.P. Putrajaya,5,Dataran Putra
+2025,Johor,1,Toppen Shopping Centre
+2025,Johor,2,Paradigm Mall Johor Bahru
+2025,Johor,3,Pantai Desaru
+2025,Johor,4,"The Mall, Mid Valley Southkey"
+2025,Johor,5,Johor Premium Outlet
+2025,Kedah,1,Aman Central Mall
+2025,Kedah,2,Pantai Tanjung Dawai
+2025,Kedah,3,Pantai Merdeka
+2025,Kedah,4,Pantai Cenang
+2025,Kedah,5,Gunung Jerai
+2025,Kelantan,1,AEON Lembah Sireh
+2025,Kelantan,2,Pasar Siti Khadijah
+2025,Kelantan,3,KB Mall
+2025,Kelantan,4,Pantai Tapang
+2025,Kelantan,5,Pantai Melawi
+2025,Melaka,1,AEON MALL Bandaraya Melaka
+2025,Melaka,2,Dataran Pahlawan Melaka Megamall
+2025,Melaka,3,Pantai Klebang
+2025,Melaka,4,Freeport A' Famosa Outlet
+2025,Melaka,5,Jonker Walk
+2025,Pahang,1,Genting Highlands
+2025,Pahang,2,Cameron Highlands
+2025,Pahang,3,East Cost Mall
+2025,Pahang,4,Pantai Teluk Cempedak
+2025,Pahang,5,Kuantan City Mall
+2025,Pulau Pinang,1,Sunway Carnival Mall
+2025,Pulau Pinang,2,Queensbay Mall
+2025,Pulau Pinang,3,Gurney Plaza
+2025,Pulau Pinang,4,Pantai Teluk Bahang
+2025,Pulau Pinang,5,Kek Lok Si Temple
+2025,Perak,1,Ipoh Parade Shopping Centre
+2025,Perak,2,Teluk Batik
+2025,Perak,3,Concubine Lane
+2025,Perak,4,Ipoh Night Market
+2025,Perak,5,Bazar Karat Ipoh
+2025,Perlis,1,Arked Niaga Padang Besar
+2025,Perlis,2,Wang Kelian View Point
+2025,Perlis,3,Taman Eko-Rimba Bukit Ayer
+2025,Perlis,4,Padang Waremart
+2025,Perlis,5,Medan Ikan Bakar Kuala Perlis
+2025,Selangor,1,IOI City Mall
+2025,Selangor,2,1 Utama Shopping Centre
+2025,Selangor,3,Sunway Pyramid
+2025,Selangor,4,Ikea Damansara
+2025,Selangor,5,Setia City Mall
+2025,Terengganu,1,KTCC Mall
+2025,Terengganu,2,Pasar Besar Kedai Payang
+2025,Terengganu,3,Pantai Penarik
+2025,Terengganu,4,Pantai Teluk Ketapang
+2025,Terengganu,5,Pantai Batu Buruk
+2025,Sabah,1,Imago Shopping Mall
+2025,Sabah,2,Pekan Nabalu
+2025,Sabah,3,Pantai Tanjung Aru
+2025,Sabah,4,Pulau Mabul
+2025,Sabah,5,Sungai Melangkap
+2025,Sarawak,1,Kuching Waterfront
+2025,Sarawak,2,Daesco Star Mega Mall
+2025,Sarawak,3,Pasar Sentral Sibu
+2025,Sarawak,4,The Spring Mall Bintulu
+2025,Sarawak,5,Vivacity Megamall
+2025,W.P. Kuala Lumpur,1,Pavilion Kuala Lumpur
+2025,W.P. Kuala Lumpur,2,SOGO
+2025,W.P. Kuala Lumpur,3,Mid Valley Megamall
+2025,W.P. Kuala Lumpur,4,Berjaya Times Square
+2025,W.P. Kuala Lumpur,5,Axiata Arena Bukit Jalil
+2025,W.P. Labuan,1,Kompleks Sukan Laut Antarabangsa Labuan
+2025,W.P. Labuan,2,Dataran Labuan
+2025,W.P. Labuan,3,Kampung Patau-Patau
+2025,W.P. Labuan,4,Memorial Perang Dunia Kedua
+2025,W.P. Labuan,5,Pantai Pohon Batu
+2025,W.P. Putrajaya,1,Dataran Putrajaya
+2025,W.P. Putrajaya,2,Alamanda Shopping Centre
+2025,W.P. Putrajaya,3,Masjid Putra
+2025,W.P. Putrajaya,4,Cruise Tasik Putrajaya
+2025,W.P. Putrajaya,5,Taman Saujana Hijau

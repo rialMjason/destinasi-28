@@ -1,0 +1,1537 @@
+year,origin_state,destination_state,tourists_thousands
+2020,Johor,Johor,1888.928
+2020,Johor,Kedah,35.725
+2020,Johor,Kelantan,97.664
+2020,Johor,Melaka,293.963
+2020,Johor,Negeri Sembilan,287.998
+2020,Johor,Pahang,227.567
+2020,Johor,Pulau Pinang,25.952
+2020,Johor,Perak,296.114
+2020,Johor,Perlis,2.099
+2020,Johor,Selangor,246.262
+2020,Johor,Terengganu,100.63
+2020,Johor,Sabah,11.884
+2020,Johor,Sarawak,11.118
+2020,Johor,W.P. Kuala Lumpur,324.568
+2020,Johor,W.P. Labuan,0.0
+2020,Johor,W.P. Putrajaya,7.744
+2020,Kedah,Johor,78.109
+2020,Kedah,Kedah,1209.468
+2020,Kedah,Kelantan,47.307
+2020,Kedah,Melaka,68.119
+2020,Kedah,Negeri Sembilan,26.849
+2020,Kedah,Pahang,187.328
+2020,Kedah,Pulau Pinang,236.537
+2020,Kedah,Perak,152.174
+2020,Kedah,Perlis,96.094
+2020,Kedah,Selangor,141.841
+2020,Kedah,Terengganu,38.562
+2020,Kedah,Sabah,13.604
+2020,Kedah,Sarawak,54.316
+2020,Kedah,W.P. Kuala Lumpur,174.984
+2020,Kedah,W.P. Labuan,0.0
+2020,Kedah,W.P. Putrajaya,4.938
+2020,Kelantan,Johor,47.864
+2020,Kelantan,Kedah,10.747
+2020,Kelantan,Kelantan,1267.487
+2020,Kelantan,Melaka,23.911
+2020,Kelantan,Negeri Sembilan,20.503
+2020,Kelantan,Pahang,255.283
+2020,Kelantan,Pulau Pinang,61.503
+2020,Kelantan,Perak,66.116
+2020,Kelantan,Perlis,4.101
+2020,Kelantan,Selangor,189.477
+2020,Kelantan,Terengganu,192.683
+2020,Kelantan,Sabah,25.455
+2020,Kelantan,Sarawak,5.724
+2020,Kelantan,W.P. Kuala Lumpur,220.114
+2020,Kelantan,W.P. Labuan,1.82
+2020,Kelantan,W.P. Putrajaya,15.839
+2020,Melaka,Johor,273.747
+2020,Melaka,Kedah,70.996
+2020,Melaka,Kelantan,21.686
+2020,Melaka,Melaka,535.869
+2020,Melaka,Negeri Sembilan,205.079
+2020,Melaka,Pahang,153.343
+2020,Melaka,Pulau Pinang,17.367
+2020,Melaka,Perak,88.124
+2020,Melaka,Perlis,14.723
+2020,Melaka,Selangor,129.431
+2020,Melaka,Terengganu,32.964
+2020,Melaka,Sabah,13.967
+2020,Melaka,Sarawak,16.617
+2020,Melaka,W.P. Kuala Lumpur,177.028
+2020,Melaka,W.P. Labuan,0.0
+2020,Melaka,W.P. Putrajaya,7.861
+2020,Negeri Sembilan,Johor,338.342
+2020,Negeri Sembilan,Kedah,129.125
+2020,Negeri Sembilan,Kelantan,68.162
+2020,Negeri Sembilan,Melaka,273.768
+2020,Negeri Sembilan,Negeri Sembilan,650.357
+2020,Negeri Sembilan,Pahang,242.977
+2020,Negeri Sembilan,Pulau Pinang,123.344
+2020,Negeri Sembilan,Perak,281.974
+2020,Negeri Sembilan,Perlis,80.718
+2020,Negeri Sembilan,Selangor,243.391
+2020,Negeri Sembilan,Terengganu,130.737
+2020,Negeri Sembilan,Sabah,8.803
+2020,Negeri Sembilan,Sarawak,12.579
+2020,Negeri Sembilan,W.P. Kuala Lumpur,311.064
+2020,Negeri Sembilan,W.P. Labuan,0.0
+2020,Negeri Sembilan,W.P. Putrajaya,23.007
+2020,Pahang,Johor,114.945
+2020,Pahang,Kedah,103.229
+2020,Pahang,Kelantan,284.572
+2020,Pahang,Melaka,121.544
+2020,Pahang,Negeri Sembilan,83.044
+2020,Pahang,Pahang,1682.818
+2020,Pahang,Pulau Pinang,52.308
+2020,Pahang,Perak,256.456
+2020,Pahang,Perlis,11.127
+2020,Pahang,Selangor,133.212
+2020,Pahang,Terengganu,429.341
+2020,Pahang,Sabah,6.176
+2020,Pahang,Sarawak,1.282
+2020,Pahang,W.P. Kuala Lumpur,354.39
+2020,Pahang,W.P. Labuan,0.0
+2020,Pahang,W.P. Putrajaya,9.675
+2020,Pulau Pinang,Johor,17.216
+2020,Pulau Pinang,Kedah,488.321
+2020,Pulau Pinang,Kelantan,50.986
+2020,Pulau Pinang,Melaka,9.866
+2020,Pulau Pinang,Negeri Sembilan,17.829
+2020,Pulau Pinang,Pahang,58.352
+2020,Pulau Pinang,Pulau Pinang,747.09
+2020,Pulau Pinang,Perak,319.099
+2020,Pulau Pinang,Perlis,73.245
+2020,Pulau Pinang,Selangor,217.245
+2020,Pulau Pinang,Terengganu,27.854
+2020,Pulau Pinang,Sabah,24.416
+2020,Pulau Pinang,Sarawak,8.876
+2020,Pulau Pinang,W.P. Kuala Lumpur,54.357
+2020,Pulau Pinang,W.P. Labuan,0.0
+2020,Pulau Pinang,W.P. Putrajaya,3.897
+2020,Perak,Johor,17.422
+2020,Perak,Kedah,266.288
+2020,Perak,Kelantan,100.317
+2020,Perak,Melaka,146.734
+2020,Perak,Negeri Sembilan,96.568
+2020,Perak,Pahang,314.33
+2020,Perak,Pulau Pinang,491.015
+2020,Perak,Perak,1370.125
+2020,Perak,Perlis,74.79
+2020,Perak,Selangor,438.864
+2020,Perak,Terengganu,38.118
+2020,Perak,Sabah,159.351
+2020,Perak,Sarawak,8.343
+2020,Perak,W.P. Kuala Lumpur,383.897
+2020,Perak,W.P. Labuan,0.0
+2020,Perak,W.P. Putrajaya,133.446
+2020,Perlis,Johor,9.706
+2020,Perlis,Kedah,76.278
+2020,Perlis,Kelantan,12.018
+2020,Perlis,Melaka,3.937
+2020,Perlis,Negeri Sembilan,26.334
+2020,Perlis,Pahang,4.975
+2020,Perlis,Pulau Pinang,31.862
+2020,Perlis,Perak,17.282
+2020,Perlis,Perlis,8.044
+2020,Perlis,Selangor,22.673
+2020,Perlis,Terengganu,8.018
+2020,Perlis,Sabah,1.526
+2020,Perlis,Sarawak,0.842
+2020,Perlis,W.P. Kuala Lumpur,18.936
+2020,Perlis,W.P. Labuan,0.0
+2020,Perlis,W.P. Putrajaya,0.917
+2020,Selangor,Johor,654.97
+2020,Selangor,Kedah,710.189
+2020,Selangor,Kelantan,581.066
+2020,Selangor,Melaka,1062.743
+2020,Selangor,Negeri Sembilan,1132.492
+2020,Selangor,Pahang,1316.972
+2020,Selangor,Pulau Pinang,773.855
+2020,Selangor,Perak,1332.508
+2020,Selangor,Perlis,33.597
+2020,Selangor,Selangor,1419.176
+2020,Selangor,Terengganu,475.143
+2020,Selangor,Sabah,135.907
+2020,Selangor,Sarawak,105.159
+2020,Selangor,W.P. Kuala Lumpur,739.971
+2020,Selangor,W.P. Labuan,3.259
+2020,Selangor,W.P. Putrajaya,3.248
+2020,Terengganu,Johor,61.752
+2020,Terengganu,Kedah,29.937
+2020,Terengganu,Kelantan,421.893
+2020,Terengganu,Melaka,22.741
+2020,Terengganu,Negeri Sembilan,16.964
+2020,Terengganu,Pahang,390.597
+2020,Terengganu,Pulau Pinang,28.216
+2020,Terengganu,Perak,26.327
+2020,Terengganu,Perlis,6.606
+2020,Terengganu,Selangor,116.029
+2020,Terengganu,Terengganu,1102.307
+2020,Terengganu,Sabah,5.913
+2020,Terengganu,Sarawak,5.217
+2020,Terengganu,W.P. Kuala Lumpur,125.649
+2020,Terengganu,W.P. Labuan,0.0
+2020,Terengganu,W.P. Putrajaya,14.71
+2020,Sabah,Johor,0.633
+2020,Sabah,Kedah,76.01
+2020,Sabah,Kelantan,0.0
+2020,Sabah,Melaka,0.0
+2020,Sabah,Negeri Sembilan,0.0
+2020,Sabah,Pahang,38.042
+2020,Sabah,Pulau Pinang,14.892
+2020,Sabah,Perak,0.0
+2020,Sabah,Perlis,0.0
+2020,Sabah,Selangor,208.054
+2020,Sabah,Terengganu,0.0
+2020,Sabah,Sabah,1985.5591603999999
+2020,Sabah,Sarawak,34.743
+2020,Sabah,W.P. Kuala Lumpur,57.633
+2020,Sabah,W.P. Labuan,34.6968396
+2020,Sabah,W.P. Putrajaya,0.0
+2020,Sarawak,Johor,7.808
+2020,Sarawak,Kedah,8.95
+2020,Sarawak,Kelantan,16.187
+2020,Sarawak,Melaka,4.467
+2020,Sarawak,Negeri Sembilan,0.0
+2020,Sarawak,Pahang,2.847
+2020,Sarawak,Pulau Pinang,0.0
+2020,Sarawak,Perak,0.0
+2020,Sarawak,Perlis,0.0
+2020,Sarawak,Selangor,135.408
+2020,Sarawak,Terengganu,0.0
+2020,Sarawak,Sabah,10.932
+2020,Sarawak,Sarawak,2345.9649487
+2020,Sarawak,W.P. Kuala Lumpur,79.552
+2020,Sarawak,W.P. Labuan,27.9490513
+2020,Sarawak,W.P. Putrajaya,26.183
+2020,W.P. Kuala Lumpur,Johor,439.839
+2020,W.P. Kuala Lumpur,Kedah,258.878
+2020,W.P. Kuala Lumpur,Kelantan,336.923
+2020,W.P. Kuala Lumpur,Melaka,264.146
+2020,W.P. Kuala Lumpur,Negeri Sembilan,271.144
+2020,W.P. Kuala Lumpur,Pahang,299.481
+2020,W.P. Kuala Lumpur,Pulau Pinang,130.166
+2020,W.P. Kuala Lumpur,Perak,663.173
+2020,W.P. Kuala Lumpur,Perlis,4.124
+2020,W.P. Kuala Lumpur,Selangor,1035.404
+2020,W.P. Kuala Lumpur,Terengganu,82.861
+2020,W.P. Kuala Lumpur,Sabah,16.433
+2020,W.P. Kuala Lumpur,Sarawak,15.068
+2020,W.P. Kuala Lumpur,W.P. Kuala Lumpur,660.868
+2020,W.P. Kuala Lumpur,W.P. Labuan,7.123
+2020,W.P. Kuala Lumpur,W.P. Putrajaya,27.652
+2020,W.P. Labuan,Johor,4.748
+2020,W.P. Labuan,Kedah,0.0
+2020,W.P. Labuan,Kelantan,0.0
+2020,W.P. Labuan,Melaka,0.0
+2020,W.P. Labuan,Negeri Sembilan,0.0
+2020,W.P. Labuan,Pahang,0.0
+2020,W.P. Labuan,Pulau Pinang,0.0
+2020,W.P. Labuan,Perak,0.0
+2020,W.P. Labuan,Perlis,0.0
+2020,W.P. Labuan,Selangor,9.445
+2020,W.P. Labuan,Terengganu,0.0
+2020,W.P. Labuan,Sabah,33.52
+2020,W.P. Labuan,Sarawak,0.0
+2020,W.P. Labuan,W.P. Kuala Lumpur,0.0
+2020,W.P. Labuan,W.P. Labuan,1.191
+2020,W.P. Labuan,W.P. Putrajaya,1.641
+2020,W.P. Putrajaya,Johor,32.579
+2020,W.P. Putrajaya,Kedah,12.804
+2020,W.P. Putrajaya,Kelantan,12.006
+2020,W.P. Putrajaya,Melaka,27.679
+2020,W.P. Putrajaya,Negeri Sembilan,13.049
+2020,W.P. Putrajaya,Pahang,39.63
+2020,W.P. Putrajaya,Pulau Pinang,15.449
+2020,W.P. Putrajaya,Perak,21.175
+2020,W.P. Putrajaya,Perlis,1.618
+2020,W.P. Putrajaya,Selangor,7.262
+2020,W.P. Putrajaya,Terengganu,10.834
+2020,W.P. Putrajaya,Sabah,2.975
+2020,W.P. Putrajaya,Sarawak,1.197
+2020,W.P. Putrajaya,W.P. Kuala Lumpur,1.484
+2020,W.P. Putrajaya,W.P. Labuan,0.782
+2020,W.P. Putrajaya,W.P. Putrajaya,2.794
+2021,Johor,Johor,1160.792
+2021,Johor,Kedah,13.88
+2021,Johor,Kelantan,15.335
+2021,Johor,Melaka,63.397
+2021,Johor,Negeri Sembilan,169.995
+2021,Johor,Pahang,168.811
+2021,Johor,Pulau Pinang,89.884
+2021,Johor,Perak,46.615
+2021,Johor,Perlis,18.687
+2021,Johor,Selangor,70.833
+2021,Johor,Terengganu,55.437
+2021,Johor,Sabah,2.462
+2021,Johor,Sarawak,4.886
+2021,Johor,W.P. Kuala Lumpur,41.653
+2021,Johor,W.P. Labuan,0.0
+2021,Johor,W.P. Putrajaya,6.273
+2021,Kedah,Johor,5.586
+2021,Kedah,Kedah,323.303
+2021,Kedah,Kelantan,36.07
+2021,Kedah,Melaka,60.165
+2021,Kedah,Negeri Sembilan,24.416
+2021,Kedah,Pahang,32.989
+2021,Kedah,Pulau Pinang,42.034
+2021,Kedah,Perak,102.388
+2021,Kedah,Perlis,62.417
+2021,Kedah,Selangor,40.514
+2021,Kedah,Terengganu,11.58
+2021,Kedah,Sabah,4.504
+2021,Kedah,Sarawak,6.679
+2021,Kedah,W.P. Kuala Lumpur,71.902
+2021,Kedah,W.P. Labuan,0.0
+2021,Kedah,W.P. Putrajaya,14.166
+2021,Kelantan,Johor,27.684
+2021,Kelantan,Kedah,14.717
+2021,Kelantan,Kelantan,296.255
+2021,Kelantan,Melaka,22.683
+2021,Kelantan,Negeri Sembilan,12.804
+2021,Kelantan,Pahang,64.116
+2021,Kelantan,Pulau Pinang,11.793
+2021,Kelantan,Perak,30.115
+2021,Kelantan,Perlis,2.878
+2021,Kelantan,Selangor,31.028
+2021,Kelantan,Terengganu,105.846
+2021,Kelantan,Sabah,5.252
+2021,Kelantan,Sarawak,2.943
+2021,Kelantan,W.P. Kuala Lumpur,21.45
+2021,Kelantan,W.P. Labuan,0.0
+2021,Kelantan,W.P. Putrajaya,4.189
+2021,Melaka,Johor,29.822
+2021,Melaka,Kedah,48.806
+2021,Melaka,Kelantan,18.813
+2021,Melaka,Melaka,141.083
+2021,Melaka,Negeri Sembilan,26.804
+2021,Melaka,Pahang,34.229
+2021,Melaka,Pulau Pinang,9.66
+2021,Melaka,Perak,7.836
+2021,Melaka,Perlis,5.437
+2021,Melaka,Selangor,22.39
+2021,Melaka,Terengganu,27.968
+2021,Melaka,Sabah,0.0
+2021,Melaka,Sarawak,0.0
+2021,Melaka,W.P. Kuala Lumpur,35.637
+2021,Melaka,W.P. Labuan,0.0
+2021,Melaka,W.P. Putrajaya,4.283
+2021,Negeri Sembilan,Johor,52.317
+2021,Negeri Sembilan,Kedah,11.197
+2021,Negeri Sembilan,Kelantan,8.314
+2021,Negeri Sembilan,Melaka,126.344
+2021,Negeri Sembilan,Negeri Sembilan,469.716
+2021,Negeri Sembilan,Pahang,8.108
+2021,Negeri Sembilan,Pulau Pinang,12.682
+2021,Negeri Sembilan,Perak,12.322
+2021,Negeri Sembilan,Perlis,4.426
+2021,Negeri Sembilan,Selangor,8.381
+2021,Negeri Sembilan,Terengganu,5.331
+2021,Negeri Sembilan,Sabah,0.0
+2021,Negeri Sembilan,Sarawak,12.097
+2021,Negeri Sembilan,W.P. Kuala Lumpur,28.224
+2021,Negeri Sembilan,W.P. Labuan,0.0
+2021,Negeri Sembilan,W.P. Putrajaya,3.638
+2021,Pahang,Johor,18.016
+2021,Pahang,Kedah,5.245
+2021,Pahang,Kelantan,53.86
+2021,Pahang,Melaka,11.158
+2021,Pahang,Negeri Sembilan,10.754
+2021,Pahang,Pahang,600.341
+2021,Pahang,Pulau Pinang,14.557
+2021,Pahang,Perak,19.663
+2021,Pahang,Perlis,6.046
+2021,Pahang,Selangor,72.641
+2021,Pahang,Terengganu,80.888
+2021,Pahang,Sabah,0.0
+2021,Pahang,Sarawak,10.222
+2021,Pahang,W.P. Kuala Lumpur,77.469
+2021,Pahang,W.P. Labuan,0.0
+2021,Pahang,W.P. Putrajaya,4.836
+2021,Pulau Pinang,Johor,21.305
+2021,Pulau Pinang,Kedah,163.129
+2021,Pulau Pinang,Kelantan,26.852
+2021,Pulau Pinang,Melaka,11.356
+2021,Pulau Pinang,Negeri Sembilan,8.953
+2021,Pulau Pinang,Pahang,33.351
+2021,Pulau Pinang,Pulau Pinang,76.549
+2021,Pulau Pinang,Perak,103.29
+2021,Pulau Pinang,Perlis,13.899
+2021,Pulau Pinang,Selangor,35.058
+2021,Pulau Pinang,Terengganu,28.387
+2021,Pulau Pinang,Sabah,8.059
+2021,Pulau Pinang,Sarawak,6.966
+2021,Pulau Pinang,W.P. Kuala Lumpur,96.267
+2021,Pulau Pinang,W.P. Labuan,0.0
+2021,Pulau Pinang,W.P. Putrajaya,4.297
+2021,Perak,Johor,51.114
+2021,Perak,Kedah,85.304
+2021,Perak,Kelantan,56.782
+2021,Perak,Melaka,26.356
+2021,Perak,Negeri Sembilan,2.681
+2021,Perak,Pahang,15.403
+2021,Perak,Pulau Pinang,52.93
+2021,Perak,Perak,443.884
+2021,Perak,Perlis,2.04
+2021,Perak,Selangor,16.686
+2021,Perak,Terengganu,60.435
+2021,Perak,Sabah,8.725
+2021,Perak,Sarawak,12.972
+2021,Perak,W.P. Kuala Lumpur,66.887
+2021,Perak,W.P. Labuan,3.584
+2021,Perak,W.P. Putrajaya,11.417
+2021,Perlis,Johor,7.075
+2021,Perlis,Kedah,11.135
+2021,Perlis,Kelantan,1.469
+2021,Perlis,Melaka,1.179
+2021,Perlis,Negeri Sembilan,2.434
+2021,Perlis,Pahang,2.939
+2021,Perlis,Pulau Pinang,11.972
+2021,Perlis,Perak,13.059
+2021,Perlis,Perlis,1.958
+2021,Perlis,Selangor,8.704
+2021,Perlis,Terengganu,3.255
+2021,Perlis,Sabah,0.0
+2021,Perlis,Sarawak,0.0
+2021,Perlis,W.P. Kuala Lumpur,3.092
+2021,Perlis,W.P. Labuan,0.0
+2021,Perlis,W.P. Putrajaya,1.044
+2021,Selangor,Johor,263.633
+2021,Selangor,Kedah,122.427
+2021,Selangor,Kelantan,254.644
+2021,Selangor,Melaka,401.226
+2021,Selangor,Negeri Sembilan,193.514
+2021,Selangor,Pahang,160.348
+2021,Selangor,Pulau Pinang,234.731
+2021,Selangor,Perak,298.925
+2021,Selangor,Perlis,1.916
+2021,Selangor,Selangor,524.465
+2021,Selangor,Terengganu,223.928
+2021,Selangor,Sabah,41.346
+2021,Selangor,Sarawak,50.059
+2021,Selangor,W.P. Kuala Lumpur,191.647
+2021,Selangor,W.P. Labuan,0.0
+2021,Selangor,W.P. Putrajaya,11.548
+2021,Terengganu,Johor,14.289
+2021,Terengganu,Kedah,22.895
+2021,Terengganu,Kelantan,33.675
+2021,Terengganu,Melaka,1.596
+2021,Terengganu,Negeri Sembilan,20.513
+2021,Terengganu,Pahang,41.629
+2021,Terengganu,Pulau Pinang,12.44
+2021,Terengganu,Perak,23.495
+2021,Terengganu,Perlis,2.582
+2021,Terengganu,Selangor,65.694
+2021,Terengganu,Terengganu,494.251
+2021,Terengganu,Sabah,7.964
+2021,Terengganu,Sarawak,9.311
+2021,Terengganu,W.P. Kuala Lumpur,38.257
+2021,Terengganu,W.P. Labuan,0.0
+2021,Terengganu,W.P. Putrajaya,12.851
+2021,Sabah,Johor,4.093
+2021,Sabah,Kedah,17.192
+2021,Sabah,Kelantan,0.0
+2021,Sabah,Melaka,0.0
+2021,Sabah,Negeri Sembilan,0.0
+2021,Sabah,Pahang,0.0
+2021,Sabah,Pulau Pinang,9.578
+2021,Sabah,Perak,0.0
+2021,Sabah,Perlis,0.0
+2021,Sabah,Selangor,11.257
+2021,Sabah,Terengganu,0.0
+2021,Sabah,Sabah,946.578
+2021,Sabah,Sarawak,28.132
+2021,Sabah,W.P. Kuala Lumpur,27.22
+2021,Sabah,W.P. Labuan,9.363
+2021,Sabah,W.P. Putrajaya,6.426
+2021,Sarawak,Johor,4.595
+2021,Sarawak,Kedah,5.774
+2021,Sarawak,Kelantan,0.0
+2021,Sarawak,Melaka,7.774
+2021,Sarawak,Negeri Sembilan,3.709
+2021,Sarawak,Pahang,0.0
+2021,Sarawak,Pulau Pinang,35.043
+2021,Sarawak,Perak,0.0
+2021,Sarawak,Perlis,0.0
+2021,Sarawak,Selangor,19.202
+2021,Sarawak,Terengganu,0.0
+2021,Sarawak,Sabah,26.981
+2021,Sarawak,Sarawak,884.858
+2021,Sarawak,W.P. Kuala Lumpur,26.516
+2021,Sarawak,W.P. Labuan,9.746
+2021,Sarawak,W.P. Putrajaya,4.733
+2021,W.P. Kuala Lumpur,Johor,108.193
+2021,W.P. Kuala Lumpur,Kedah,185.679
+2021,W.P. Kuala Lumpur,Kelantan,30.441
+2021,W.P. Kuala Lumpur,Melaka,115.406
+2021,W.P. Kuala Lumpur,Negeri Sembilan,255.765
+2021,W.P. Kuala Lumpur,Pahang,100.324
+2021,W.P. Kuala Lumpur,Pulau Pinang,94.326
+2021,W.P. Kuala Lumpur,Perak,247.212
+2021,W.P. Kuala Lumpur,Perlis,3.103
+2021,W.P. Kuala Lumpur,Selangor,279.74
+2021,W.P. Kuala Lumpur,Terengganu,28.425
+2021,W.P. Kuala Lumpur,Sabah,13.83
+2021,W.P. Kuala Lumpur,Sarawak,57.13
+2021,W.P. Kuala Lumpur,W.P. Kuala Lumpur,193.848
+2021,W.P. Kuala Lumpur,W.P. Labuan,4.453
+2021,W.P. Kuala Lumpur,W.P. Putrajaya,13.004
+2021,W.P. Labuan,Johor,0.0
+2021,W.P. Labuan,Kedah,1.81
+2021,W.P. Labuan,Kelantan,0.0
+2021,W.P. Labuan,Melaka,0.0
+2021,W.P. Labuan,Negeri Sembilan,0.0
+2021,W.P. Labuan,Pahang,0.0
+2021,W.P. Labuan,Pulau Pinang,0.0
+2021,W.P. Labuan,Perak,0.0
+2021,W.P. Labuan,Perlis,0.0
+2021,W.P. Labuan,Selangor,0.0
+2021,W.P. Labuan,Terengganu,0.0
+2021,W.P. Labuan,Sabah,2.453
+2021,W.P. Labuan,Sarawak,0.0
+2021,W.P. Labuan,W.P. Kuala Lumpur,0.0
+2021,W.P. Labuan,W.P. Labuan,0.0
+2021,W.P. Labuan,W.P. Putrajaya,0.0
+2021,W.P. Putrajaya,Johor,2.864
+2021,W.P. Putrajaya,Kedah,4.262
+2021,W.P. Putrajaya,Kelantan,9.249
+2021,W.P. Putrajaya,Melaka,5.497
+2021,W.P. Putrajaya,Negeri Sembilan,7.231
+2021,W.P. Putrajaya,Pahang,11.198
+2021,W.P. Putrajaya,Pulau Pinang,4.561
+2021,W.P. Putrajaya,Perak,7.649
+2021,W.P. Putrajaya,Perlis,3.855
+2021,W.P. Putrajaya,Selangor,0.773
+2021,W.P. Putrajaya,Terengganu,14.301
+2021,W.P. Putrajaya,Sabah,0.722
+2021,W.P. Putrajaya,Sarawak,0.38
+2021,W.P. Putrajaya,W.P. Kuala Lumpur,2.344
+2021,W.P. Putrajaya,W.P. Labuan,0.0
+2021,W.P. Putrajaya,W.P. Putrajaya,1.032
+2022,Johor,Johor,1999.427
+2022,Johor,Kedah,628.52
+2022,Johor,Kelantan,486.13
+2022,Johor,Melaka,717.314
+2022,Johor,Negeri Sembilan,460.621
+2022,Johor,Pahang,429.28
+2022,Johor,Pulau Pinang,167.187
+2022,Johor,Perak,284.141
+2022,Johor,Perlis,78.514
+2022,Johor,Selangor,441.541
+2022,Johor,Terengganu,162.787
+2022,Johor,Sabah,27.937
+2022,Johor,Sarawak,13.632
+2022,Johor,W.P. Kuala Lumpur,484.932
+2022,Johor,W.P. Labuan,5.689
+2022,Johor,W.P. Putrajaya,63.131
+2022,Kedah,Johor,134.496
+2022,Kedah,Kedah,2214.923
+2022,Kedah,Kelantan,204.534
+2022,Kedah,Melaka,124.096
+2022,Kedah,Negeri Sembilan,56.088
+2022,Kedah,Pahang,207.303
+2022,Kedah,Pulau Pinang,290.949
+2022,Kedah,Perak,409.295
+2022,Kedah,Perlis,155.594
+2022,Kedah,Selangor,211.435
+2022,Kedah,Terengganu,87.476
+2022,Kedah,Sabah,17.578
+2022,Kedah,Sarawak,3.461
+2022,Kedah,W.P. Kuala Lumpur,182.047
+2022,Kedah,W.P. Labuan,1.056
+2022,Kedah,W.P. Putrajaya,17.542
+2022,Kelantan,Johor,167.817
+2022,Kelantan,Kedah,53.204
+2022,Kelantan,Kelantan,454.443
+2022,Kelantan,Melaka,102.667
+2022,Kelantan,Negeri Sembilan,31.519
+2022,Kelantan,Pahang,346.541
+2022,Kelantan,Pulau Pinang,147.006
+2022,Kelantan,Perak,165.645
+2022,Kelantan,Perlis,25.117
+2022,Kelantan,Selangor,544.923
+2022,Kelantan,Terengganu,339.387
+2022,Kelantan,Sabah,35.491
+2022,Kelantan,Sarawak,18.663
+2022,Kelantan,W.P. Kuala Lumpur,327.606
+2022,Kelantan,W.P. Labuan,3.337
+2022,Kelantan,W.P. Putrajaya,50.81
+2022,Melaka,Johor,355.441
+2022,Melaka,Kedah,74.543
+2022,Melaka,Kelantan,63.556
+2022,Melaka,Melaka,318.922
+2022,Melaka,Negeri Sembilan,216.554
+2022,Melaka,Pahang,260.574
+2022,Melaka,Pulau Pinang,101.995
+2022,Melaka,Perak,108.426
+2022,Melaka,Perlis,4.281
+2022,Melaka,Selangor,398.74
+2022,Melaka,Terengganu,101.708
+2022,Melaka,Sabah,22.381
+2022,Melaka,Sarawak,3.845
+2022,Melaka,W.P. Kuala Lumpur,107.802
+2022,Melaka,W.P. Labuan,0.153
+2022,Melaka,W.P. Putrajaya,9.632
+2022,Negeri Sembilan,Johor,385.865
+2022,Negeri Sembilan,Kedah,114.145
+2022,Negeri Sembilan,Kelantan,182.492
+2022,Negeri Sembilan,Melaka,394.611
+2022,Negeri Sembilan,Negeri Sembilan,896.699
+2022,Negeri Sembilan,Pahang,533.173
+2022,Negeri Sembilan,Pulau Pinang,189.219
+2022,Negeri Sembilan,Perak,210.959
+2022,Negeri Sembilan,Perlis,23.493
+2022,Negeri Sembilan,Selangor,240.417
+2022,Negeri Sembilan,Terengganu,220.746
+2022,Negeri Sembilan,Sabah,14.447
+2022,Negeri Sembilan,Sarawak,15.203
+2022,Negeri Sembilan,W.P. Kuala Lumpur,105.939
+2022,Negeri Sembilan,W.P. Labuan,4.544
+2022,Negeri Sembilan,W.P. Putrajaya,18.18
+2022,Pahang,Johor,430.093
+2022,Pahang,Kedah,84.856
+2022,Pahang,Kelantan,454.674
+2022,Pahang,Melaka,142.37
+2022,Pahang,Negeri Sembilan,205.083
+2022,Pahang,Pahang,2079.678
+2022,Pahang,Pulau Pinang,117.095
+2022,Pahang,Perak,191.441
+2022,Pahang,Perlis,37.434
+2022,Pahang,Selangor,422.459
+2022,Pahang,Terengganu,729.74
+2022,Pahang,Sabah,29.596
+2022,Pahang,Sarawak,4.169
+2022,Pahang,W.P. Kuala Lumpur,376.728
+2022,Pahang,W.P. Labuan,7.423
+2022,Pahang,W.P. Putrajaya,51.867
+2022,Pulau Pinang,Johor,36.6
+2022,Pulau Pinang,Kedah,433.95
+2022,Pulau Pinang,Kelantan,70.297
+2022,Pulau Pinang,Melaka,60.315
+2022,Pulau Pinang,Negeri Sembilan,30.041
+2022,Pulau Pinang,Pahang,214.661
+2022,Pulau Pinang,Pulau Pinang,832.082
+2022,Pulau Pinang,Perak,348.879
+2022,Pulau Pinang,Perlis,129.598
+2022,Pulau Pinang,Selangor,128.702
+2022,Pulau Pinang,Terengganu,101.361
+2022,Pulau Pinang,Sabah,24.593
+2022,Pulau Pinang,Sarawak,24.601
+2022,Pulau Pinang,W.P. Kuala Lumpur,381.174
+2022,Pulau Pinang,W.P. Labuan,0.167
+2022,Pulau Pinang,W.P. Putrajaya,34.439
+2022,Perak,Johor,150.055
+2022,Perak,Kedah,413.523
+2022,Perak,Kelantan,43.169
+2022,Perak,Melaka,182.635
+2022,Perak,Negeri Sembilan,64.395
+2022,Perak,Pahang,200.533
+2022,Perak,Pulau Pinang,153.71
+2022,Perak,Perak,1308.725
+2022,Perak,Perlis,42.116
+2022,Perak,Selangor,343.764
+2022,Perak,Terengganu,70.639
+2022,Perak,Sabah,17.472
+2022,Perak,Sarawak,64.599
+2022,Perak,W.P. Kuala Lumpur,424.855
+2022,Perak,W.P. Labuan,4.008
+2022,Perak,W.P. Putrajaya,51.154
+2022,Perlis,Johor,4.007
+2022,Perlis,Kedah,88.044
+2022,Perlis,Kelantan,33.567
+2022,Perlis,Melaka,3.16
+2022,Perlis,Negeri Sembilan,4.391
+2022,Perlis,Pahang,6.854
+2022,Perlis,Pulau Pinang,49.579
+2022,Perlis,Perak,59.811
+2022,Perlis,Perlis,23.931
+2022,Perlis,Selangor,31.458
+2022,Perlis,Terengganu,5.644
+2022,Perlis,Sabah,0.855
+2022,Perlis,Sarawak,1.86
+2022,Perlis,W.P. Kuala Lumpur,41.002
+2022,Perlis,W.P. Labuan,2.303
+2022,Perlis,W.P. Putrajaya,1.243
+2022,Selangor,Johor,1708.648
+2022,Selangor,Kedah,1019.032
+2022,Selangor,Kelantan,795.433
+2022,Selangor,Melaka,1639.098
+2022,Selangor,Negeri Sembilan,1010.262
+2022,Selangor,Pahang,2322.125
+2022,Selangor,Pulau Pinang,1058.05
+2022,Selangor,Perak,2628.658
+2022,Selangor,Perlis,117.07
+2022,Selangor,Selangor,2505.445
+2022,Selangor,Terengganu,883.18
+2022,Selangor,Sabah,120.859
+2022,Selangor,Sarawak,100.811
+2022,Selangor,W.P. Kuala Lumpur,879.115
+2022,Selangor,W.P. Labuan,4.491
+2022,Selangor,W.P. Putrajaya,37.191
+2022,Terengganu,Johor,32.507
+2022,Terengganu,Kedah,15.281
+2022,Terengganu,Kelantan,231.307
+2022,Terengganu,Melaka,19.126
+2022,Terengganu,Negeri Sembilan,19.361
+2022,Terengganu,Pahang,52.814
+2022,Terengganu,Pulau Pinang,24.039
+2022,Terengganu,Perak,19.196
+2022,Terengganu,Perlis,8.407
+2022,Terengganu,Selangor,20.529
+2022,Terengganu,Terengganu,805.296
+2022,Terengganu,Sabah,15.764
+2022,Terengganu,Sarawak,8.562
+2022,Terengganu,W.P. Kuala Lumpur,188.33
+2022,Terengganu,W.P. Labuan,0.875
+2022,Terengganu,W.P. Putrajaya,10.96
+2022,Sabah,Johor,75.173
+2022,Sabah,Kedah,24.276
+2022,Sabah,Kelantan,9.475
+2022,Sabah,Melaka,5.958
+2022,Sabah,Negeri Sembilan,10.747
+2022,Sabah,Pahang,7.831
+2022,Sabah,Pulau Pinang,2.925
+2022,Sabah,Perak,35.755
+2022,Sabah,Perlis,2.535
+2022,Sabah,Selangor,127.756
+2022,Sabah,Terengganu,22.289
+2022,Sabah,Sabah,3182.843
+2022,Sabah,Sarawak,13.776
+2022,Sabah,W.P. Kuala Lumpur,267.278
+2022,Sabah,W.P. Labuan,50.41
+2022,Sabah,W.P. Putrajaya,3.566
+2022,Sarawak,Johor,24.682
+2022,Sarawak,Kedah,17.629
+2022,Sarawak,Kelantan,4.867
+2022,Sarawak,Melaka,16.894
+2022,Sarawak,Negeri Sembilan,4.148
+2022,Sarawak,Pahang,8.878
+2022,Sarawak,Pulau Pinang,45.711
+2022,Sarawak,Perak,54.914
+2022,Sarawak,Perlis,23.334
+2022,Sarawak,Selangor,68.871
+2022,Sarawak,Terengganu,9.227
+2022,Sarawak,Sabah,166.585
+2022,Sarawak,Sarawak,3685.904
+2022,Sarawak,W.P. Kuala Lumpur,195.039
+2022,Sarawak,W.P. Labuan,25.86
+2022,Sarawak,W.P. Putrajaya,0.176
+2022,W.P. Kuala Lumpur,Johor,718.528
+2022,W.P. Kuala Lumpur,Kedah,401.7
+2022,W.P. Kuala Lumpur,Kelantan,501.948
+2022,W.P. Kuala Lumpur,Melaka,814.257
+2022,W.P. Kuala Lumpur,Negeri Sembilan,731.637
+2022,W.P. Kuala Lumpur,Pahang,1098.075
+2022,W.P. Kuala Lumpur,Pulau Pinang,296.422
+2022,W.P. Kuala Lumpur,Perak,1009.571
+2022,W.P. Kuala Lumpur,Perlis,36.775
+2022,W.P. Kuala Lumpur,Selangor,883.514
+2022,W.P. Kuala Lumpur,Terengganu,127.459
+2022,W.P. Kuala Lumpur,Sabah,72.479
+2022,W.P. Kuala Lumpur,Sarawak,24.896
+2022,W.P. Kuala Lumpur,W.P. Kuala Lumpur,128.26
+2022,W.P. Kuala Lumpur,W.P. Labuan,0.074
+2022,W.P. Kuala Lumpur,W.P. Putrajaya,17.903
+2022,W.P. Labuan,Johor,5.287
+2022,W.P. Labuan,Kedah,3.731
+2022,W.P. Labuan,Kelantan,2.219
+2022,W.P. Labuan,Melaka,1.749
+2022,W.P. Labuan,Negeri Sembilan,1.269
+2022,W.P. Labuan,Pahang,0.249
+2022,W.P. Labuan,Pulau Pinang,1.55
+2022,W.P. Labuan,Perak,0.431
+2022,W.P. Labuan,Perlis,0.053
+2022,W.P. Labuan,Selangor,10.987
+2022,W.P. Labuan,Terengganu,1.948
+2022,W.P. Labuan,Sabah,70.544
+2022,W.P. Labuan,Sarawak,4.52
+2022,W.P. Labuan,W.P. Kuala Lumpur,3.22
+2022,W.P. Labuan,W.P. Labuan,0.986
+2022,W.P. Labuan,W.P. Putrajaya,0.128
+2022,W.P. Putrajaya,Johor,25.19
+2022,W.P. Putrajaya,Kedah,7.245
+2022,W.P. Putrajaya,Kelantan,6.655
+2022,W.P. Putrajaya,Melaka,16.152
+2022,W.P. Putrajaya,Negeri Sembilan,18.005
+2022,W.P. Putrajaya,Pahang,25.544
+2022,W.P. Putrajaya,Pulau Pinang,6.71
+2022,W.P. Putrajaya,Perak,30.673
+2022,W.P. Putrajaya,Perlis,2.739
+2022,W.P. Putrajaya,Selangor,8.243
+2022,W.P. Putrajaya,Terengganu,20.456
+2022,W.P. Putrajaya,Sabah,3.622
+2022,W.P. Putrajaya,Sarawak,0.377
+2022,W.P. Putrajaya,W.P. Kuala Lumpur,23.768
+2022,W.P. Putrajaya,W.P. Labuan,0.282
+2022,W.P. Putrajaya,W.P. Putrajaya,0.067
+2023,Johor,Johor,4415.957
+2023,Johor,Kedah,287.28
+2023,Johor,Kelantan,227.617
+2023,Johor,Melaka,961.124
+2023,Johor,Negeri Sembilan,506.846
+2023,Johor,Pahang,581.836
+2023,Johor,Pulau Pinang,312.678
+2023,Johor,Perak,426.092
+2023,Johor,Perlis,12.144
+2023,Johor,Selangor,574.624
+2023,Johor,Terengganu,153.452
+2023,Johor,Sabah,9.828
+2023,Johor,Sarawak,5.21
+2023,Johor,W.P. Kuala Lumpur,432.668
+2023,Johor,W.P. Labuan,9.949
+2023,Johor,W.P. Putrajaya,46.297
+2023,Kedah,Johor,49.516
+2023,Kedah,Kedah,1553.782
+2023,Kedah,Kelantan,175.473
+2023,Kedah,Melaka,81.453
+2023,Kedah,Negeri Sembilan,82.518
+2023,Kedah,Pahang,205.717
+2023,Kedah,Pulau Pinang,260.335
+2023,Kedah,Perak,443.281
+2023,Kedah,Perlis,122.934
+2023,Kedah,Selangor,195.599
+2023,Kedah,Terengganu,83.935
+2023,Kedah,Sabah,22.632
+2023,Kedah,Sarawak,23.832
+2023,Kedah,W.P. Kuala Lumpur,321.246
+2023,Kedah,W.P. Labuan,13.27
+2023,Kedah,W.P. Putrajaya,42.212
+2023,Kelantan,Johor,152.566
+2023,Kelantan,Kedah,68.518
+2023,Kelantan,Kelantan,905.877
+2023,Kelantan,Melaka,46.42
+2023,Kelantan,Negeri Sembilan,11.211
+2023,Kelantan,Pahang,390.98
+2023,Kelantan,Pulau Pinang,79.799
+2023,Kelantan,Perak,109.497
+2023,Kelantan,Perlis,15.142
+2023,Kelantan,Selangor,537.822
+2023,Kelantan,Terengganu,422.522
+2023,Kelantan,Sabah,13.16
+2023,Kelantan,Sarawak,17.593
+2023,Kelantan,W.P. Kuala Lumpur,369.93
+2023,Kelantan,W.P. Labuan,4.772
+2023,Kelantan,W.P. Putrajaya,27.644
+2023,Melaka,Johor,401.077
+2023,Melaka,Kedah,94.193
+2023,Melaka,Kelantan,124.592
+2023,Melaka,Melaka,870.12
+2023,Melaka,Negeri Sembilan,182.125
+2023,Melaka,Pahang,260.701
+2023,Melaka,Pulau Pinang,61.153
+2023,Melaka,Perak,115.125
+2023,Melaka,Perlis,7.608
+2023,Melaka,Selangor,245.021
+2023,Melaka,Terengganu,108.733
+2023,Melaka,Sabah,6.943
+2023,Melaka,Sarawak,1.685
+2023,Melaka,W.P. Kuala Lumpur,234.904
+2023,Melaka,W.P. Labuan,6.026
+2023,Melaka,W.P. Putrajaya,33.327
+2023,Negeri Sembilan,Johor,402.848
+2023,Negeri Sembilan,Kedah,82.639
+2023,Negeri Sembilan,Kelantan,76.248
+2023,Negeri Sembilan,Melaka,238.354
+2023,Negeri Sembilan,Negeri Sembilan,1088.586
+2023,Negeri Sembilan,Pahang,417.257
+2023,Negeri Sembilan,Pulau Pinang,162.766
+2023,Negeri Sembilan,Perak,162.927
+2023,Negeri Sembilan,Perlis,12.891
+2023,Negeri Sembilan,Selangor,169.908
+2023,Negeri Sembilan,Terengganu,96.15
+2023,Negeri Sembilan,Sabah,22.654
+2023,Negeri Sembilan,Sarawak,6.092
+2023,Negeri Sembilan,W.P. Kuala Lumpur,33.722
+2023,Negeri Sembilan,W.P. Labuan,11.694
+2023,Negeri Sembilan,W.P. Putrajaya,7.351
+2023,Pahang,Johor,361.147
+2023,Pahang,Kedah,100.03
+2023,Pahang,Kelantan,482.837
+2023,Pahang,Melaka,205.423
+2023,Pahang,Negeri Sembilan,194.065
+2023,Pahang,Pahang,2507.806
+2023,Pahang,Pulau Pinang,81.425
+2023,Pahang,Perak,232.148
+2023,Pahang,Perlis,6.501
+2023,Pahang,Selangor,541.085
+2023,Pahang,Terengganu,399.142
+2023,Pahang,Sabah,43.82
+2023,Pahang,Sarawak,7.268
+2023,Pahang,W.P. Kuala Lumpur,355.326
+2023,Pahang,W.P. Labuan,13.781
+2023,Pahang,W.P. Putrajaya,30.538
+2023,Pulau Pinang,Johor,68.3
+2023,Pulau Pinang,Kedah,1393.975
+2023,Pulau Pinang,Kelantan,60.777
+2023,Pulau Pinang,Melaka,58.088
+2023,Pulau Pinang,Negeri Sembilan,50.351
+2023,Pulau Pinang,Pahang,196.274
+2023,Pulau Pinang,Pulau Pinang,720.349
+2023,Pulau Pinang,Perak,545.858
+2023,Pulau Pinang,Perlis,200.368
+2023,Pulau Pinang,Selangor,154.394
+2023,Pulau Pinang,Terengganu,81.122
+2023,Pulau Pinang,Sabah,66.34
+2023,Pulau Pinang,Sarawak,7.86
+2023,Pulau Pinang,W.P. Kuala Lumpur,107.502
+2023,Pulau Pinang,W.P. Labuan,12.677
+2023,Pulau Pinang,W.P. Putrajaya,22.683
+2023,Perak,Johor,146.966
+2023,Perak,Kedah,507.941
+2023,Perak,Kelantan,264.537
+2023,Perak,Melaka,77.961
+2023,Perak,Negeri Sembilan,45.192
+2023,Perak,Pahang,182.931
+2023,Perak,Pulau Pinang,259.366
+2023,Perak,Perak,2254.162
+2023,Perak,Perlis,61.594
+2023,Perak,Selangor,619.88
+2023,Perak,Terengganu,148.993
+2023,Perak,Sabah,33.382
+2023,Perak,Sarawak,17.811
+2023,Perak,W.P. Kuala Lumpur,327.411
+2023,Perak,W.P. Labuan,8.532
+2023,Perak,W.P. Putrajaya,15.503
+2023,Perlis,Johor,16.746
+2023,Perlis,Kedah,168.635
+2023,Perlis,Kelantan,48.715
+2023,Perlis,Melaka,12.124
+2023,Perlis,Negeri Sembilan,5.275
+2023,Perlis,Pahang,16.929
+2023,Perlis,Pulau Pinang,85.136
+2023,Perlis,Perak,62.548
+2023,Perlis,Perlis,70.615
+2023,Perlis,Selangor,37.648
+2023,Perlis,Terengganu,2.348
+2023,Perlis,Sabah,3.067
+2023,Perlis,Sarawak,0.915
+2023,Perlis,W.P. Kuala Lumpur,43.001
+2023,Perlis,W.P. Labuan,2.524
+2023,Perlis,W.P. Putrajaya,5.118
+2023,Selangor,Johor,2048.478
+2023,Selangor,Kedah,1815.866
+2023,Selangor,Kelantan,1030.759
+2023,Selangor,Melaka,1693.22
+2023,Selangor,Negeri Sembilan,1553.003
+2023,Selangor,Pahang,2381.577
+2023,Selangor,Pulau Pinang,1491.415
+2023,Selangor,Perak,2119.873
+2023,Selangor,Perlis,156.013
+2023,Selangor,Selangor,3206.019
+2023,Selangor,Terengganu,1203.233
+2023,Selangor,Sabah,203.344
+2023,Selangor,Sarawak,169.77
+2023,Selangor,W.P. Kuala Lumpur,1854.55
+2023,Selangor,W.P. Labuan,3.777
+2023,Selangor,W.P. Putrajaya,153.129
+2023,Terengganu,Johor,42.97
+2023,Terengganu,Kedah,29.479
+2023,Terengganu,Kelantan,424.009
+2023,Terengganu,Melaka,38.704
+2023,Terengganu,Negeri Sembilan,6.226
+2023,Terengganu,Pahang,183.597
+2023,Terengganu,Pulau Pinang,29.473
+2023,Terengganu,Perak,22.405
+2023,Terengganu,Perlis,11.417
+2023,Terengganu,Selangor,119.712
+2023,Terengganu,Terengganu,1187.341
+2023,Terengganu,Sabah,47.123
+2023,Terengganu,Sarawak,24.213
+2023,Terengganu,W.P. Kuala Lumpur,618.741
+2023,Terengganu,W.P. Labuan,15.049
+2023,Terengganu,W.P. Putrajaya,24.255
+2023,Sabah,Johor,66.788
+2023,Sabah,Kedah,35.44
+2023,Sabah,Kelantan,17.117
+2023,Sabah,Melaka,22.016
+2023,Sabah,Negeri Sembilan,13.608
+2023,Sabah,Pahang,11.684
+2023,Sabah,Pulau Pinang,18.701
+2023,Sabah,Perak,20.749
+2023,Sabah,Perlis,14.764
+2023,Sabah,Selangor,231.626
+2023,Sabah,Terengganu,15.234
+2023,Sabah,Sabah,4852.005
+2023,Sabah,Sarawak,54.558
+2023,Sabah,W.P. Kuala Lumpur,149.896
+2023,Sabah,W.P. Labuan,39.206
+2023,Sabah,W.P. Putrajaya,9.827
+2023,Sarawak,Johor,99.067
+2023,Sarawak,Kedah,2.35
+2023,Sarawak,Kelantan,28.652
+2023,Sarawak,Melaka,6.137
+2023,Sarawak,Negeri Sembilan,49.18
+2023,Sarawak,Pahang,17.117
+2023,Sarawak,Pulau Pinang,64.51
+2023,Sarawak,Perak,3.389
+2023,Sarawak,Perlis,6.533
+2023,Sarawak,Selangor,117.32
+2023,Sarawak,Terengganu,21.491
+2023,Sarawak,Sabah,248.488
+2023,Sarawak,Sarawak,4938.324
+2023,Sarawak,W.P. Kuala Lumpur,528.755
+2023,Sarawak,W.P. Labuan,8.212
+2023,Sarawak,W.P. Putrajaya,18.183
+2023,W.P. Kuala Lumpur,Johor,616.598
+2023,W.P. Kuala Lumpur,Kedah,284.807
+2023,W.P. Kuala Lumpur,Kelantan,189.064
+2023,W.P. Kuala Lumpur,Melaka,644.94
+2023,W.P. Kuala Lumpur,Negeri Sembilan,443.931
+2023,W.P. Kuala Lumpur,Pahang,1151.479
+2023,W.P. Kuala Lumpur,Pulau Pinang,434.699
+2023,W.P. Kuala Lumpur,Perak,929.067
+2023,W.P. Kuala Lumpur,Perlis,33.521
+2023,W.P. Kuala Lumpur,Selangor,1677.563
+2023,W.P. Kuala Lumpur,Terengganu,126.992
+2023,W.P. Kuala Lumpur,Sabah,118.98
+2023,W.P. Kuala Lumpur,Sarawak,41.918
+2023,W.P. Kuala Lumpur,W.P. Kuala Lumpur,317.275
+2023,W.P. Kuala Lumpur,W.P. Labuan,7.168
+2023,W.P. Kuala Lumpur,W.P. Putrajaya,21.83
+2023,W.P. Labuan,Johor,0.201
+2023,W.P. Labuan,Kedah,0.115
+2023,W.P. Labuan,Kelantan,4.048
+2023,W.P. Labuan,Melaka,0.134
+2023,W.P. Labuan,Negeri Sembilan,6.333
+2023,W.P. Labuan,Pahang,1.118
+2023,W.P. Labuan,Pulau Pinang,0.066
+2023,W.P. Labuan,Perak,8.112
+2023,W.P. Labuan,Perlis,0.762
+2023,W.P. Labuan,Selangor,3.055
+2023,W.P. Labuan,Terengganu,2.511
+2023,W.P. Labuan,Sabah,75.082
+2023,W.P. Labuan,Sarawak,0.44
+2023,W.P. Labuan,W.P. Kuala Lumpur,6.839
+2023,W.P. Labuan,W.P. Labuan,5.972
+2023,W.P. Labuan,W.P. Putrajaya,7.382
+2023,W.P. Putrajaya,Johor,33.771
+2023,W.P. Putrajaya,Kedah,27.378
+2023,W.P. Putrajaya,Kelantan,25.469
+2023,W.P. Putrajaya,Melaka,34.912
+2023,W.P. Putrajaya,Negeri Sembilan,17.002
+2023,W.P. Putrajaya,Pahang,30.103
+2023,W.P. Putrajaya,Pulau Pinang,7.828
+2023,W.P. Putrajaya,Perak,48.159
+2023,W.P. Putrajaya,Perlis,3.183
+2023,W.P. Putrajaya,Selangor,24.407
+2023,W.P. Putrajaya,Terengganu,6.81
+2023,W.P. Putrajaya,Sabah,8.29
+2023,W.P. Putrajaya,Sarawak,7.138
+2023,W.P. Putrajaya,W.P. Kuala Lumpur,23.024
+2023,W.P. Putrajaya,W.P. Labuan,1.497
+2023,W.P. Putrajaya,W.P. Putrajaya,35.808
+2024,Johor,Johor,3704.714
+2024,Johor,Kedah,196.667
+2024,Johor,Kelantan,425.275
+2024,Johor,Melaka,1528.012
+2024,Johor,Negeri Sembilan,616.968
+2024,Johor,Pahang,919.966
+2024,Johor,Pulau Pinang,221.252
+2024,Johor,Perak,403.301
+2024,Johor,Perlis,95.567
+2024,Johor,Selangor,1746.841
+2024,Johor,Terengganu,188.495
+2024,Johor,Sabah,168.943
+2024,Johor,Sarawak,209.896
+2024,Johor,W.P. Kuala Lumpur,787.645
+2024,Johor,W.P. Labuan,13.35
+2024,Johor,W.P. Putrajaya,52.906
+2024,Kedah,Johor,133.108
+2024,Kedah,Kedah,1787.51
+2024,Kedah,Kelantan,276.209
+2024,Kedah,Melaka,96.196
+2024,Kedah,Negeri Sembilan,233.341
+2024,Kedah,Pahang,248.758
+2024,Kedah,Pulau Pinang,450.051
+2024,Kedah,Perak,723.289
+2024,Kedah,Perlis,130.848
+2024,Kedah,Selangor,297.097
+2024,Kedah,Terengganu,61.22
+2024,Kedah,Sabah,32.865
+2024,Kedah,Sarawak,30.214
+2024,Kedah,W.P. Kuala Lumpur,254.91
+2024,Kedah,W.P. Labuan,7.133
+2024,Kedah,W.P. Putrajaya,87.496
+2024,Kelantan,Johor,115.899
+2024,Kelantan,Kedah,132.209
+2024,Kelantan,Kelantan,977.965
+2024,Kelantan,Melaka,8.592
+2024,Kelantan,Negeri Sembilan,106.131
+2024,Kelantan,Pahang,251.898
+2024,Kelantan,Pulau Pinang,146.896
+2024,Kelantan,Perak,221.977
+2024,Kelantan,Perlis,34.466
+2024,Kelantan,Selangor,259.034
+2024,Kelantan,Terengganu,496.82
+2024,Kelantan,Sabah,28.812
+2024,Kelantan,Sarawak,3.6
+2024,Kelantan,W.P. Kuala Lumpur,232.399
+2024,Kelantan,W.P. Labuan,3.283
+2024,Kelantan,W.P. Putrajaya,95.755
+2024,Melaka,Johor,459.072
+2024,Melaka,Kedah,122.587
+2024,Melaka,Kelantan,79.537
+2024,Melaka,Melaka,266.106
+2024,Melaka,Negeri Sembilan,379.134
+2024,Melaka,Pahang,254.647
+2024,Melaka,Pulau Pinang,106.225
+2024,Melaka,Perak,259.154
+2024,Melaka,Perlis,3.154
+2024,Melaka,Selangor,378.083
+2024,Melaka,Terengganu,74.915
+2024,Melaka,Sabah,78.204
+2024,Melaka,Sarawak,27.792
+2024,Melaka,W.P. Kuala Lumpur,458.258
+2024,Melaka,W.P. Labuan,1.593
+2024,Melaka,W.P. Putrajaya,41.326
+2024,Negeri Sembilan,Johor,464.774
+2024,Negeri Sembilan,Kedah,71.578
+2024,Negeri Sembilan,Kelantan,258.247
+2024,Negeri Sembilan,Melaka,359.632
+2024,Negeri Sembilan,Negeri Sembilan,714.607
+2024,Negeri Sembilan,Pahang,459.935
+2024,Negeri Sembilan,Pulau Pinang,140.479
+2024,Negeri Sembilan,Perak,315.022
+2024,Negeri Sembilan,Perlis,18.34
+2024,Negeri Sembilan,Selangor,351.433
+2024,Negeri Sembilan,Terengganu,136.393
+2024,Negeri Sembilan,Sabah,8.786
+2024,Negeri Sembilan,Sarawak,9.935
+2024,Negeri Sembilan,W.P. Kuala Lumpur,256.05
+2024,Negeri Sembilan,W.P. Labuan,6.764
+2024,Negeri Sembilan,W.P. Putrajaya,36.296
+2024,Pahang,Johor,538.802
+2024,Pahang,Kedah,122.385
+2024,Pahang,Kelantan,474.376
+2024,Pahang,Melaka,134.318
+2024,Pahang,Negeri Sembilan,221.144
+2024,Pahang,Pahang,1981.222
+2024,Pahang,Pulau Pinang,119.939
+2024,Pahang,Perak,489.012
+2024,Pahang,Perlis,25.78
+2024,Pahang,Selangor,383.805
+2024,Pahang,Terengganu,686.073
+2024,Pahang,Sabah,61.941
+2024,Pahang,Sarawak,8.744
+2024,Pahang,W.P. Kuala Lumpur,467.78
+2024,Pahang,W.P. Labuan,5.887
+2024,Pahang,W.P. Putrajaya,23.758
+2024,Pulau Pinang,Johor,124.816
+2024,Pulau Pinang,Kedah,962.038
+2024,Pulau Pinang,Kelantan,4.76
+2024,Pulau Pinang,Melaka,210.415
+2024,Pulau Pinang,Negeri Sembilan,67.787
+2024,Pulau Pinang,Pahang,395.965
+2024,Pulau Pinang,Pulau Pinang,523.113
+2024,Pulau Pinang,Perak,487.147
+2024,Pulau Pinang,Perlis,216.419
+2024,Pulau Pinang,Selangor,354.503
+2024,Pulau Pinang,Terengganu,489.885
+2024,Pulau Pinang,Sabah,181.891
+2024,Pulau Pinang,Sarawak,1.063
+2024,Pulau Pinang,W.P. Kuala Lumpur,539.031
+2024,Pulau Pinang,W.P. Labuan,7.956
+2024,Pulau Pinang,W.P. Putrajaya,45.97
+2024,Perak,Johor,282.367
+2024,Perak,Kedah,659.705
+2024,Perak,Kelantan,245.397
+2024,Perak,Melaka,202.444
+2024,Perak,Negeri Sembilan,186.796
+2024,Perak,Pahang,432.226
+2024,Perak,Pulau Pinang,384.443
+2024,Perak,Perak,1886.966
+2024,Perak,Perlis,102.461
+2024,Perak,Selangor,1053.853
+2024,Perak,Terengganu,256.269
+2024,Perak,Sabah,77.564
+2024,Perak,Sarawak,37.394
+2024,Perak,W.P. Kuala Lumpur,909.009
+2024,Perak,W.P. Labuan,20.276
+2024,Perak,W.P. Putrajaya,90.289
+2024,Perlis,Johor,20.528
+2024,Perlis,Kedah,238.573
+2024,Perlis,Kelantan,34.567
+2024,Perlis,Melaka,6.776
+2024,Perlis,Negeri Sembilan,13.4
+2024,Perlis,Pahang,75.115
+2024,Perlis,Pulau Pinang,197.276
+2024,Perlis,Perak,97.427
+2024,Perlis,Perlis,50.996
+2024,Perlis,Selangor,73.087
+2024,Perlis,Terengganu,49.435
+2024,Perlis,Sabah,4.239
+2024,Perlis,Sarawak,3.126
+2024,Perlis,W.P. Kuala Lumpur,56.871
+2024,Perlis,W.P. Labuan,0.808
+2024,Perlis,W.P. Putrajaya,10.961
+2024,Selangor,Johor,1837.846
+2024,Selangor,Kedah,1793.603
+2024,Selangor,Kelantan,1365.974
+2024,Selangor,Melaka,1698.792
+2024,Selangor,Negeri Sembilan,1524.26
+2024,Selangor,Pahang,1636.986
+2024,Selangor,Pulau Pinang,1199.166
+2024,Selangor,Perak,3336.198
+2024,Selangor,Perlis,461.172
+2024,Selangor,Selangor,2953.259
+2024,Selangor,Terengganu,973.553
+2024,Selangor,Sabah,770.899
+2024,Selangor,Sarawak,588.138
+2024,Selangor,W.P. Kuala Lumpur,1291.171
+2024,Selangor,W.P. Labuan,9.719
+2024,Selangor,W.P. Putrajaya,65.445
+2024,Terengganu,Johor,12.138
+2024,Terengganu,Kedah,7.925
+2024,Terengganu,Kelantan,346.675
+2024,Terengganu,Melaka,10.535
+2024,Terengganu,Negeri Sembilan,19.287
+2024,Terengganu,Pahang,293.872
+2024,Terengganu,Pulau Pinang,34.815
+2024,Terengganu,Perak,19.12
+2024,Terengganu,Perlis,5.452
+2024,Terengganu,Selangor,224.869
+2024,Terengganu,Terengganu,487.724
+2024,Terengganu,Sabah,26.825
+2024,Terengganu,Sarawak,2.747
+2024,Terengganu,W.P. Kuala Lumpur,74.284
+2024,Terengganu,W.P. Labuan,5.041
+2024,Terengganu,W.P. Putrajaya,3.005
+2024,Sabah,Johor,27.375
+2024,Sabah,Kedah,34.294
+2024,Sabah,Kelantan,7.941
+2024,Sabah,Melaka,28.095
+2024,Sabah,Negeri Sembilan,6.93
+2024,Sabah,Pahang,11.471
+2024,Sabah,Pulau Pinang,86.459
+2024,Sabah,Perak,5.995
+2024,Sabah,Perlis,4.359
+2024,Sabah,Selangor,200.936
+2024,Sabah,Terengganu,10.243
+2024,Sabah,Sabah,4132.289
+2024,Sabah,Sarawak,386.56
+2024,Sabah,W.P. Kuala Lumpur,277.914
+2024,Sabah,W.P. Labuan,64.186
+2024,Sabah,W.P. Putrajaya,38.402
+2024,Sarawak,Johor,41.45
+2024,Sarawak,Kedah,72.561
+2024,Sarawak,Kelantan,23.379
+2024,Sarawak,Melaka,7.034
+2024,Sarawak,Negeri Sembilan,8.098
+2024,Sarawak,Pahang,12.647
+2024,Sarawak,Pulau Pinang,41.88
+2024,Sarawak,Perak,5.561
+2024,Sarawak,Perlis,13.178
+2024,Sarawak,Selangor,211.808
+2024,Sarawak,Terengganu,22.411
+2024,Sarawak,Sabah,247.465
+2024,Sarawak,Sarawak,4055.785
+2024,Sarawak,W.P. Kuala Lumpur,245.981
+2024,Sarawak,W.P. Labuan,27.314
+2024,Sarawak,W.P. Putrajaya,30.921
+2024,W.P. Kuala Lumpur,Johor,1689.695
+2024,W.P. Kuala Lumpur,Kedah,624.876
+2024,W.P. Kuala Lumpur,Kelantan,1289.447
+2024,W.P. Kuala Lumpur,Melaka,1520.438
+2024,W.P. Kuala Lumpur,Negeri Sembilan,1815.293
+2024,W.P. Kuala Lumpur,Pahang,2485.925
+2024,W.P. Kuala Lumpur,Pulau Pinang,1088.185
+2024,W.P. Kuala Lumpur,Perak,1881.571
+2024,W.P. Kuala Lumpur,Perlis,97.851
+2024,W.P. Kuala Lumpur,Selangor,1026.36
+2024,W.P. Kuala Lumpur,Terengganu,954.478
+2024,W.P. Kuala Lumpur,Sabah,105.983
+2024,W.P. Kuala Lumpur,Sarawak,304.533
+2024,W.P. Kuala Lumpur,W.P. Kuala Lumpur,338.113
+2024,W.P. Kuala Lumpur,W.P. Labuan,3.966
+2024,W.P. Kuala Lumpur,W.P. Putrajaya,6.806
+2024,W.P. Labuan,Johor,0.087
+2024,W.P. Labuan,Kedah,1.83
+2024,W.P. Labuan,Kelantan,1.902
+2024,W.P. Labuan,Melaka,0.161
+2024,W.P. Labuan,Negeri Sembilan,1.308
+2024,W.P. Labuan,Pahang,20.987
+2024,W.P. Labuan,Pulau Pinang,0.498
+2024,W.P. Labuan,Perak,1.164
+2024,W.P. Labuan,Perlis,0.642
+2024,W.P. Labuan,Selangor,3.53
+2024,W.P. Labuan,Terengganu,1.782
+2024,W.P. Labuan,Sabah,151.349
+2024,W.P. Labuan,Sarawak,16.186
+2024,W.P. Labuan,W.P. Kuala Lumpur,13.709
+2024,W.P. Labuan,W.P. Labuan,15.209
+2024,W.P. Labuan,W.P. Putrajaya,7.907
+2024,W.P. Putrajaya,Johor,28.391
+2024,W.P. Putrajaya,Kedah,26.077
+2024,W.P. Putrajaya,Kelantan,52.129
+2024,W.P. Putrajaya,Melaka,80.822
+2024,W.P. Putrajaya,Negeri Sembilan,73.059
+2024,W.P. Putrajaya,Pahang,44.218
+2024,W.P. Putrajaya,Pulau Pinang,25.344
+2024,W.P. Putrajaya,Perak,76.048
+2024,W.P. Putrajaya,Perlis,1.354
+2024,W.P. Putrajaya,Selangor,55.887
+2024,W.P. Putrajaya,Terengganu,28.708
+2024,W.P. Putrajaya,Sabah,3.43
+2024,W.P. Putrajaya,Sarawak,15.321
+2024,W.P. Putrajaya,W.P. Kuala Lumpur,13.175
+2024,W.P. Putrajaya,W.P. Labuan,1.615
+2024,W.P. Putrajaya,W.P. Putrajaya,14.351
+2025,Johor,Johor,3422.224
+2025,Johor,Kedah,740.539
+2025,Johor,Kelantan,576.493
+2025,Johor,Melaka,1344.569
+2025,Johor,Negeri Sembilan,1671.469
+2025,Johor,Pahang,981.156
+2025,Johor,Pulau Pinang,106.412
+2025,Johor,Perak,173.172
+2025,Johor,Perlis,50.178
+2025,Johor,Selangor,629.355
+2025,Johor,Terengganu,286.182
+2025,Johor,Sabah,112.834
+2025,Johor,Sarawak,348.024
+2025,Johor,W.P. Kuala Lumpur,494.101
+2025,Johor,W.P. Labuan,3.471
+2025,Johor,W.P. Putrajaya,76.891
+2025,Kedah,Johor,114.898
+2025,Kedah,Kedah,1234.006
+2025,Kedah,Kelantan,285.999
+2025,Kedah,Melaka,259.897
+2025,Kedah,Negeri Sembilan,112.4
+2025,Kedah,Pahang,282.067
+2025,Kedah,Pulau Pinang,431.179
+2025,Kedah,Perak,698.16
+2025,Kedah,Perlis,160.158
+2025,Kedah,Selangor,329.094
+2025,Kedah,Terengganu,341.083
+2025,Kedah,Sabah,128.284
+2025,Kedah,Sarawak,85.125
+2025,Kedah,W.P. Kuala Lumpur,734.346
+2025,Kedah,W.P. Labuan,7.389
+2025,Kedah,W.P. Putrajaya,85.02
+2025,Kelantan,Johor,103.148
+2025,Kelantan,Kedah,101.463
+2025,Kelantan,Kelantan,912.3
+2025,Kelantan,Melaka,181.902
+2025,Kelantan,Negeri Sembilan,66.973
+2025,Kelantan,Pahang,212.844
+2025,Kelantan,Pulau Pinang,93.324
+2025,Kelantan,Perak,132.166
+2025,Kelantan,Perlis,12.1
+2025,Kelantan,Selangor,690.727
+2025,Kelantan,Terengganu,752.094
+2025,Kelantan,Sabah,80.149
+2025,Kelantan,Sarawak,126.632
+2025,Kelantan,W.P. Kuala Lumpur,297.176
+2025,Kelantan,W.P. Labuan,2.559
+2025,Kelantan,W.P. Putrajaya,104.006
+2025,Melaka,Johor,685.258
+2025,Melaka,Kedah,120.369
+2025,Melaka,Kelantan,59.714
+2025,Melaka,Melaka,149.224
+2025,Melaka,Negeri Sembilan,280.267
+2025,Melaka,Pahang,469.616
+2025,Melaka,Pulau Pinang,99.282
+2025,Melaka,Perak,288.792
+2025,Melaka,Perlis,57.367
+2025,Melaka,Selangor,348.921
+2025,Melaka,Terengganu,286.532
+2025,Melaka,Sabah,7.035
+2025,Melaka,Sarawak,55.149
+2025,Melaka,W.P. Kuala Lumpur,463.246
+2025,Melaka,W.P. Labuan,26.775
+2025,Melaka,W.P. Putrajaya,59.888
+2025,Negeri Sembilan,Johor,467.594
+2025,Negeri Sembilan,Kedah,112.049
+2025,Negeri Sembilan,Kelantan,203.938
+2025,Negeri Sembilan,Melaka,377.289
+2025,Negeri Sembilan,Negeri Sembilan,460.839
+2025,Negeri Sembilan,Pahang,444.428
+2025,Negeri Sembilan,Pulau Pinang,65.536
+2025,Negeri Sembilan,Perak,275.019
+2025,Negeri Sembilan,Perlis,18.698
+2025,Negeri Sembilan,Selangor,448.828
+2025,Negeri Sembilan,Terengganu,190.562
+2025,Negeri Sembilan,Sabah,78.882
+2025,Negeri Sembilan,Sarawak,87.136
+2025,Negeri Sembilan,W.P. Kuala Lumpur,442.738
+2025,Negeri Sembilan,W.P. Labuan,47.15
+2025,Negeri Sembilan,W.P. Putrajaya,63.288
+2025,Pahang,Johor,585.252
+2025,Pahang,Kedah,193.689
+2025,Pahang,Kelantan,655.129
+2025,Pahang,Melaka,305.141
+2025,Pahang,Negeri Sembilan,287.89
+2025,Pahang,Pahang,2599.801
+2025,Pahang,Pulau Pinang,241.717
+2025,Pahang,Perak,701.131
+2025,Pahang,Perlis,60.726
+2025,Pahang,Selangor,930.401
+2025,Pahang,Terengganu,903.281
+2025,Pahang,Sabah,7.808
+2025,Pahang,Sarawak,63.906
+2025,Pahang,W.P. Kuala Lumpur,824.776
+2025,Pahang,W.P. Labuan,22.741
+2025,Pahang,W.P. Putrajaya,55.202
+2025,Pulau Pinang,Johor,123.784
+2025,Pulau Pinang,Kedah,952.233
+2025,Pulau Pinang,Kelantan,227.934
+2025,Pulau Pinang,Melaka,74.643
+2025,Pulau Pinang,Negeri Sembilan,56.642
+2025,Pulau Pinang,Pahang,537.067
+2025,Pulau Pinang,Pulau Pinang,323.086
+2025,Pulau Pinang,Perak,893.223
+2025,Pulau Pinang,Perlis,285.678
+2025,Pulau Pinang,Selangor,459.411
+2025,Pulau Pinang,Terengganu,140.537
+2025,Pulau Pinang,Sabah,243.929
+2025,Pulau Pinang,Sarawak,134.36
+2025,Pulau Pinang,W.P. Kuala Lumpur,746.837
+2025,Pulau Pinang,W.P. Labuan,1.795
+2025,Pulau Pinang,W.P. Putrajaya,40.206
+2025,Perak,Johor,492.392
+2025,Perak,Kedah,622.506
+2025,Perak,Kelantan,473.886
+2025,Perak,Melaka,448.906
+2025,Perak,Negeri Sembilan,266.798
+2025,Perak,Pahang,648.824
+2025,Perak,Pulau Pinang,836.185
+2025,Perak,Perak,1591.314
+2025,Perak,Perlis,190.379
+2025,Perak,Selangor,1716.467
+2025,Perak,Terengganu,361.679
+2025,Perak,Sabah,144.916
+2025,Perak,Sarawak,143.923
+2025,Perak,W.P. Kuala Lumpur,1771.244
+2025,Perak,W.P. Labuan,3.518
+2025,Perak,W.P. Putrajaya,97.231
+2025,Perlis,Johor,40.988
+2025,Perlis,Kedah,279.678
+2025,Perlis,Kelantan,85.72
+2025,Perlis,Melaka,92.885
+2025,Perlis,Negeri Sembilan,64.994
+2025,Perlis,Pahang,78.512
+2025,Perlis,Pulau Pinang,177.172
+2025,Perlis,Perak,196.268
+2025,Perlis,Perlis,25.916
+2025,Perlis,Selangor,82.253
+2025,Perlis,Terengganu,33.064
+2025,Perlis,Sabah,4.048
+2025,Perlis,Sarawak,1.2
+2025,Perlis,W.P. Kuala Lumpur,79.659
+2025,Perlis,W.P. Labuan,6.994
+2025,Perlis,W.P. Putrajaya,11.752
+2025,Selangor,Johor,1995.977
+2025,Selangor,Kedah,1676.138
+2025,Selangor,Kelantan,1506.201
+2025,Selangor,Melaka,2725.941
+2025,Selangor,Negeri Sembilan,1980.107
+2025,Selangor,Pahang,2517.56353028202
+2025,Selangor,Pulau Pinang,2362.7
+2025,Selangor,Perak,3116.563
+2025,Selangor,Perlis,480.281
+2025,Selangor,Selangor,2428.953
+2025,Selangor,Terengganu,762.677
+2025,Selangor,Sabah,531.665
+2025,Selangor,Sarawak,125.515
+2025,Selangor,W.P. Kuala Lumpur,1819.35
+2025,Selangor,W.P. Labuan,46.372
+2025,Selangor,W.P. Putrajaya,71.394
+2025,Terengganu,Johor,106.704
+2025,Terengganu,Kedah,83.693
+2025,Terengganu,Kelantan,520.817
+2025,Terengganu,Melaka,115.592
+2025,Terengganu,Negeri Sembilan,105.86
+2025,Terengganu,Pahang,373.96
+2025,Terengganu,Pulau Pinang,126.461
+2025,Terengganu,Perak,151.705
+2025,Terengganu,Perlis,5.675
+2025,Terengganu,Selangor,248.322
+2025,Terengganu,Terengganu,687.421
+2025,Terengganu,Sabah,6.117
+2025,Terengganu,Sarawak,64.251
+2025,Terengganu,W.P. Kuala Lumpur,419.675
+2025,Terengganu,W.P. Labuan,4.999
+2025,Terengganu,W.P. Putrajaya,84.339
+2025,Sabah,Johor,73.52
+2025,Sabah,Kedah,315.743
+2025,Sabah,Kelantan,296.511
+2025,Sabah,Melaka,50.586
+2025,Sabah,Negeri Sembilan,95.545
+2025,Sabah,Pahang,212.016
+2025,Sabah,Pulau Pinang,64.458
+2025,Sabah,Perak,110.004
+2025,Sabah,Perlis,14.672
+2025,Sabah,Selangor,574.081
+2025,Sabah,Terengganu,83.995
+2025,Sabah,Sabah,5536.041
+2025,Sabah,Sarawak,561.921
+2025,Sabah,W.P. Kuala Lumpur,783.67
+2025,Sabah,W.P. Labuan,71.595
+2025,Sabah,W.P. Putrajaya,53.724
+2025,Sarawak,Johor,30.223
+2025,Sarawak,Kedah,25.911
+2025,Sarawak,Kelantan,89.927
+2025,Sarawak,Melaka,96.988
+2025,Sarawak,Negeri Sembilan,51.548
+2025,Sarawak,Pahang,8.759
+2025,Sarawak,Pulau Pinang,138.204
+2025,Sarawak,Perak,18.356
+2025,Sarawak,Perlis,4.4
+2025,Sarawak,Selangor,322.421
+2025,Sarawak,Terengganu,3.502
+2025,Sarawak,Sabah,149.61
+2025,Sarawak,Sarawak,4128.139
+2025,Sarawak,W.P. Kuala Lumpur,575.284
+2025,Sarawak,W.P. Labuan,9.609
+2025,Sarawak,W.P. Putrajaya,12.667
+2025,W.P. Kuala Lumpur,Johor,1469.998
+2025,W.P. Kuala Lumpur,Kedah,619.59
+2025,W.P. Kuala Lumpur,Kelantan,524.898
+2025,W.P. Kuala Lumpur,Melaka,915.96753028202
+2025,W.P. Kuala Lumpur,Negeri Sembilan,937.425
+2025,W.P. Kuala Lumpur,Pahang,1635.11146971798
+2025,W.P. Kuala Lumpur,Pulau Pinang,548.438
+2025,W.P. Kuala Lumpur,Perak,2017.802
+2025,W.P. Kuala Lumpur,Perlis,97.926
+2025,W.P. Kuala Lumpur,Selangor,1335.438
+2025,W.P. Kuala Lumpur,Terengganu,387.107
+2025,W.P. Kuala Lumpur,Sabah,138.292
+2025,W.P. Kuala Lumpur,Sarawak,390.144
+2025,W.P. Kuala Lumpur,W.P. Kuala Lumpur,578.909
+2025,W.P. Kuala Lumpur,W.P. Labuan,6.772
+2025,W.P. Kuala Lumpur,W.P. Putrajaya,86.169
+2025,W.P. Labuan,Johor,19.247
+2025,W.P. Labuan,Kedah,12.186
+2025,W.P. Labuan,Kelantan,21.278
+2025,W.P. Labuan,Melaka,20.01
+2025,W.P. Labuan,Negeri Sembilan,30.209
+2025,W.P. Labuan,Pahang,5.708
+2025,W.P. Labuan,Pulau Pinang,10.798
+2025,W.P. Labuan,Perak,3.732
+2025,W.P. Labuan,Perlis,5.148
+2025,W.P. Labuan,Selangor,21.329
+2025,W.P. Labuan,Terengganu,5.35
+2025,W.P. Labuan,Sabah,188.746
+2025,W.P. Labuan,Sarawak,11.257
+2025,W.P. Labuan,W.P. Kuala Lumpur,19.928
+2025,W.P. Labuan,W.P. Labuan,2.754
+2025,W.P. Labuan,W.P. Putrajaya,1.53
+2025,W.P. Putrajaya,Johor,90.693
+2025,W.P. Putrajaya,Kedah,35.052
+2025,W.P. Putrajaya,Kelantan,71.385
+2025,W.P. Putrajaya,Melaka,19.15
+2025,W.P. Putrajaya,Negeri Sembilan,78.057
+2025,W.P. Putrajaya,Pahang,38.547
+2025,W.P. Putrajaya,Pulau Pinang,4.592
+2025,W.P. Putrajaya,Perak,46.413
+2025,W.P. Putrajaya,Perlis,5.634
+2025,W.P. Putrajaya,Selangor,29.555
+2025,W.P. Putrajaya,Terengganu,14.576
+2025,W.P. Putrajaya,Sabah,1.533
+2025,W.P. Putrajaya,Sarawak,3.212
+2025,W.P. Putrajaya,W.P. Kuala Lumpur,27.634
+2025,W.P. Putrajaya,W.P. Labuan,2.292
+2025,W.P. Putrajaya,W.P. Putrajaya,2.791

@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "description": "Empirical Leontief Multipliers from DOSM Symmetric I-O Tables (2019-2021)"
+  },
+  "2019": {
+    "year": 2019,
+    "composite_tourism": {
+      "type1_output_multiplier": 1.7624,
+      "type1_gva_multiplier": 0.8154,
+      "type2_output_multiplier": 3.0662,
+      "type2_gva_multiplier": 1.4034
+    },
+    "sectors": {
+      "retail_wholesale": {
+        "code": 93,
+        "name": "Wholesale and Retail Trade",
+        "dosm_name": "Perdagangan Borong & Runcit, Pembaikan Kenderaan   Bermotor dan Motosikal",
+        "type1_output": 1.5592,
+        "type1_gva": 0.8327,
+        "type2_output": 2.6704,
+        "type2_gva": 1.3338
+      },
+      "accommodation": {
+        "code": 94,
+        "name": "Accommodation",
+        "dosm_name": "Penginapan",
+        "type1_output": 1.6414,
+        "type1_gva": 0.8554,
+        "type2_output": 3.248,
+        "type2_gva": 1.58
+      },
+      "food_beverage": {
+        "code": 95,
+        "name": "Food and Beverage Services",
+        "dosm_name": "Makanan dan Minuman",
+        "type1_output": 1.9526,
+        "type1_gva": 0.8145,
+        "type2_output": 3.1952,
+        "type2_gva": 1.3749
+      },
+      "land_transport": {
+        "code": 96,
+        "name": "Land Transport",
+        "dosm_name": "Pengangkutan Darat",
+        "type1_output": 1.9261,
+        "type1_gva": 0.8062,
+        "type2_output": 3.1158,
+        "type2_gva": 1.3427
+      },
+      "water_transport": {
+        "code": 97,
+        "name": "Water Transport",
+        "dosm_name": "Pengangkutan Air",
+        "type1_output": 2.11,
+        "type1_gva": 0.7838,
+        "type2_output": 3.1744,
+        "type2_gva": 1.2638
+      },
+      "air_transport": {
+        "code": 98,
+        "name": "Air Transport",
+        "dosm_name": "Pengangkutan Udara",
+        "type1_output": 2.1188,
+        "type1_gva": 0.7603,
+        "type2_output": 3.3815,
+        "type2_gva": 1.3297
+      },
+      "transport_services": {
+        "code": 100,
+        "name": "Supporting Transport Services",
+        "dosm_name": "Perkhidmatan berkaitan Pengangkutan Air  dan Udara",
+        "type1_output": 1.5619,
+        "type1_gva": 0.8891,
+        "type2_output": 2.7829,
+        "type2_gva": 1.4397
+      },
+      "arts_recreation": {
+        "code": 123,
+        "name": "Arts, Entertainment and Recreation",
+        "dosm_name": "Kesenian, Hiburan dan Rekreasi",
+        "type1_output": 1.7714,
+        "type1_gva": 0.8127,
+        "type2_output": 2.8533,
+        "type2_gva": 1.3007
+      },
+      "refined_petroleum": {
+        "code": 38,
+        "name": "Refined Petroleum Products",
+        "dosm_name": "Pertukangan Kayu dan Tanggam untuk Jurubina",
+        "type1_output": 2.1813,
+        "type1_gva": 0.7304,
+        "type2_output": 4.1291,
+        "type2_gva": 1.6088
+      }
+    }
+  },
+  "2020": {
+    "year": 2020,
+    "composite_tourism": {
+      "type1_output_multiplier": 1.8272,
+      "type1_gva_multiplier": 0.8362,
+      "type2_output_multiplier": 3.2079,
+      "type2_gva_multiplier": 1.4567
+    },
+    "sectors": {
+      "retail_wholesale": {
+        "code": 93,
+        "name": "Wholesale and Retail Trade",
+        "dosm_name": "Perdagangan Borong & Runcit, Pembaikan Kenderaan   Bermotor dan Motosikal",
+        "type1_output": 1.6022,
+        "type1_gva": 0.8563,
+        "type2_output": 2.7189,
+        "type2_gva": 1.3581
+      },
+      "accommodation": {
+        "code": 94,
+        "name": "Accommodation",
+        "dosm_name": "Penginapan",
+        "type1_output": 1.7181,
+        "type1_gva": 0.8742,
+        "type2_output": 3.8779,
+        "type2_gva": 1.845
+      },
+      "food_beverage": {
+        "code": 95,
+        "name": "Food and Beverage Services",
+        "dosm_name": "Makanan dan Minuman",
+        "type1_output": 2.0623,
+        "type1_gva": 0.8366,
+        "type2_output": 3.3759,
+        "type2_gva": 1.427
+      },
+      "land_transport": {
+        "code": 96,
+        "name": "Land Transport",
+        "dosm_name": "Pengangkutan Darat",
+        "type1_output": 1.956,
+        "type1_gva": 0.8116,
+        "type2_output": 3.2381,
+        "type2_gva": 1.3879
+      },
+      "water_transport": {
+        "code": 97,
+        "name": "Water Transport",
+        "dosm_name": "Pengangkutan Air",
+        "type1_output": 2.1117,
+        "type1_gva": 0.8266,
+        "type2_output": 3.2264,
+        "type2_gva": 1.3276
+      },
+      "air_transport": {
+        "code": 98,
+        "name": "Air Transport",
+        "dosm_name": "Pengangkutan Udara",
+        "type1_output": 2.3,
+        "type1_gva": 0.805,
+        "type2_output": 4.0929,
+        "type2_gva": 1.6109
+      },
+      "transport_services": {
+        "code": 100,
+        "name": "Supporting Transport Services",
+        "dosm_name": "Perkhidmatan berkaitan Pengangkutan Air  dan Udara",
+        "type1_output": 1.5534,
+        "type1_gva": 0.9096,
+        "type2_output": 2.7533,
+        "type2_gva": 1.4489
+      },
+      "arts_recreation": {
+        "code": 123,
+        "name": "Arts, Entertainment and Recreation",
+        "dosm_name": "Kesenian, Hiburan dan Rekreasi",
+        "type1_output": 1.8112,
+        "type1_gva": 0.8263,
+        "type2_output": 3.2303,
+        "type2_gva": 1.4641
+      },
+      "refined_petroleum": {
+        "code": 38,
+        "name": "Refined Petroleum Products",
+        "dosm_name": "Pertukangan Kayu dan Tanggam untuk Jurubina",
+        "type1_output": 2.2527,
+        "type1_gva": 0.7471,
+        "type2_output": 3.9807,
+        "type2_gva": 1.5238
+      }
+    }
+  },
+  "2021": {
+    "year": 2021,
+    "composite_tourism": {
+      "type1_output_multiplier": 1.7525,
+      "type1_gva_multiplier": 0.8151,
+      "type2_output_multiplier": 2.9388,
+      "type2_gva_multiplier": 1.3528
+    },
+    "sectors": {
+      "retail_wholesale": {
+        "code": 93,
+        "name": "Wholesale and Retail Trade",
+        "dosm_name": "Perdagangan Borong & Runcit, Pembaikan Kenderaan   Bermotor dan Motosikal",
+        "type1_output": 1.5428,
+        "type1_gva": 0.8465,
+        "type2_output": 2.4985,
+        "type2_gva": 1.2798
+      },
+      "accommodation": {
+        "code": 94,
+        "name": "Accommodation",
+        "dosm_name": "Penginapan",
+        "type1_output": 1.6719,
+        "type1_gva": 0.8473,
+        "type2_output": 3.7527,
+        "type2_gva": 1.7907
+      },
+      "food_beverage": {
+        "code": 95,
+        "name": "Food and Beverage Services",
+        "dosm_name": "Makanan dan Minuman",
+        "type1_output": 1.9133,
+        "type1_gva": 0.7901,
+        "type2_output": 3.0707,
+        "type2_gva": 1.3148
+      },
+      "land_transport": {
+        "code": 96,
+        "name": "Land Transport",
+        "dosm_name": "Pengangkutan Darat",
+        "type1_output": 1.9216,
+        "type1_gva": 0.8105,
+        "type2_output": 2.9962,
+        "type2_gva": 1.2977
+      },
+      "water_transport": {
+        "code": 97,
+        "name": "Water Transport",
+        "dosm_name": "Pengangkutan Air",
+        "type1_output": 2.0998,
+        "type1_gva": 0.7736,
+        "type2_output": 2.9646,
+        "type2_gva": 1.1656
+      },
+      "air_transport": {
+        "code": 98,
+        "name": "Air Transport",
+        "dosm_name": "Pengangkutan Udara",
+        "type1_output": 2.2795,
+        "type1_gva": 0.7907,
+        "type2_output": 3.2853,
+        "type2_gva": 1.2467
+      },
+      "transport_services": {
+        "code": 100,
+        "name": "Supporting Transport Services",
+        "dosm_name": "Perkhidmatan berkaitan Pengangkutan Air  dan Udara",
+        "type1_output": 1.5167,
+        "type1_gva": 0.9007,
+        "type2_output": 2.5408,
+        "type2_gva": 1.365
+      },
+      "arts_recreation": {
+        "code": 123,
+        "name": "Arts, Entertainment and Recreation",
+        "dosm_name": "Kesenian, Hiburan dan Rekreasi",
+        "type1_output": 1.7741,
+        "type1_gva": 0.805,
+        "type2_output": 2.8519,
+        "type2_gva": 1.2936
+      },
+      "refined_petroleum": {
+        "code": 38,
+        "name": "Refined Petroleum Products",
+        "dosm_name": "Pertukangan Kayu dan Tanggam untuk Jurubina",
+        "type1_output": 2.1817,
+        "type1_gva": 0.7221,
+        "type2_output": 3.55,
+        "type2_gva": 1.3424
+      }
+    }
+  }
+}
